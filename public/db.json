@@ -1,0 +1,2039 @@
+{
+  "questions": [
+    {
+      "question": "¿Cuál es la función principal de las señales reglamentarias?",
+      "answer": 0,
+      "options": [
+        "A) Indicar limitaciones, prohibiciones o restricciones.",
+        "B) Advertir sobre la existencia de un peligro.",
+        "C) Proporcionar información útil al usuario.",
+        "D) Modificar transitoriamente el uso de la vía."
+      ],
+      "descriptionAnswer": "Las señales reglamentarias tienen como función principal indicar limitaciones, prohibiciones o restricciones, según lo establecido en el Artículo 110."
+    },
+    {
+      "question": "¿Qué tipo de señalización se utiliza para advertir sobre un peligro en la vía?",
+      "answer": 1,
+      "options": [
+        "A) Reglamentarias",
+        "B) Preventivas",
+        "C) Informativas",
+        "D) Transitorias"
+      ],
+      "descriptionAnswer": "Las señales preventivas son las encargadas de advertir sobre la existencia de un peligro en la vía, de acuerdo con la clasificación establecida en el Artículo 110."
+    },
+    {
+      "question": "Si encuentras una señal que informa la distancia a la próxima ciudad, ¿a qué tipo de señal pertenece?",
+      "answer": 2,
+      "options": [
+        "A) Reglamentarias",
+        "B) Preventivas",
+        "C) Informativas",
+        "D) Transitorias"
+      ],
+      "descriptionAnswer": "Las señales informativas proporcionan datos útiles para el usuario, como la distancia a ciudades, nombres de calles o servicios cercanos."
+    },
+    {
+      "question": "¿Cuál de las siguientes señales tiene carácter temporal y puede modificar el uso de la vía?",
+      "answer": 3,
+      "options": [
+        "A) Reglamentarias",
+        "B) Preventivas",
+        "C) Informativas",
+        "D) Transitorias"
+      ],
+      "descriptionAnswer": "Las señales transitorias son aquellas que modifican temporalmente el uso de la vía, como en casos de obras viales o desvíos."
+    },
+    {
+      "question": "Según el Artículo 110, ¿cuántas clasificaciones principales existen para las señales de tránsito?",
+      "answer": 1,
+      "options": [
+        "A) Tres",
+        "B) Cuatro",
+        "C) Cinco",
+        "D) Dos"
+      ],
+      "descriptionAnswer": "El artículo 110 establece cuatro clasificaciones principales para las señales de tránsito: reglamentarias, preventivas, informativas y transitorias."
+    },
+    {
+      "question": "Una señal de 'Prohibido parquear' pertenece a la categoría de:",
+      "answer": 0,
+      "options": [
+        "A) Reglamentarias",
+        "B) Preventivas",
+        "C) Informativas",
+        "D) Transitorias"
+      ],
+      "descriptionAnswer": "Las señales reglamentarias indican limitaciones o prohibiciones, como la prohibición de parquear en un área específica."
+    },
+    {
+      "question": "Las señales preventivas suelen tener forma de:",
+      "answer": 2,
+      "options": [
+        "A) Círculo",
+        "B) Rectángulo",
+        "C) Triángulo",
+        "D) Hexágono"
+      ],
+      "descriptionAnswer": "Las señales preventivas generalmente tienen forma de triángulo y un color amarillo para advertir sobre peligros en la vía."
+    },
+    {
+      "question": "Un letrero que indica la velocidad máxima permitida es una señal:",
+      "answer": 0,
+      "options": [
+        "A) Reglamentaria",
+        "B) Preventiva",
+        "C) Informativa",
+        "D) Transitoria"
+      ],
+      "descriptionAnswer": "Las señales reglamentarias establecen límites de velocidad y otras normas obligatorias para los conductores."
+    },
+    {
+      "question": "¿Qué tipo de señal se usa para desvíos temporales debido a obras viales?",
+      "answer": 3,
+      "options": [
+        "A) Reglamentaria",
+        "B) Preventiva",
+        "C) Informativa",
+        "D) Transitoria"
+      ],
+      "descriptionAnswer": "Las señales transitorias se utilizan para modificar temporalmente la circulación debido a eventos como obras en la vía."
+    },
+    {
+      "question": "Si ves una señal amarilla con un símbolo de curva peligrosa, significa que:",
+      "answer": 1,
+      "options": [
+        "A) Es una restricción obligatoria.",
+        "B) Te está advirtiendo sobre un peligro.",
+        "C) Te indica un servicio cercano.",
+        "D) Es una señal temporal."
+      ],
+      "descriptionAnswer": "Las señales preventivas, de color amarillo, advierten sobre peligros en la vía, como curvas cerradas o pendientes pronunciadas."
+    },
+    {
+      "question": "¿Qué es una acera o andén según el Código Nacional de Tránsito?",
+      "answer": 1,
+      "options": [
+        "A) Es la parte de la calzada destinada a la circulación de peatones y vehículos.",
+        "B) Es una franja longitudinal de la vía urbana, destinada exclusivamente a la circulación de peatones.",
+        "C) Es un espacio en la vía donde los vehículos pueden estacionarse temporalmente.",
+        "D) Es una sección de la carretera exclusiva para ciclistas."
+      ],
+      "descriptionAnswer": "Según el artículo 2, una acera o andén es una franja longitudinal de la vía urbana, destinada exclusivamente a la circulación de peatones."
+    },
+    {
+      "question": "¿Qué condiciones deben cumplirse para que un evento sea considerado un accidente de tránsito?",
+      "answer": 2,
+      "options": [
+        "A) Debe involucrar al menos dos vehículos.",
+        "B) Solo se considera accidente si hay personas heridas.",
+        "C) Debe haber al menos un vehículo en movimiento y causar daños a personas, bienes o afectar la circulación.",
+        "D) Solo se considera accidente si hay intervención de un agente de tránsito."
+      ],
+      "descriptionAnswer": "El artículo 2 define el accidente de tránsito como un evento involuntario que involucra al menos un vehículo en movimiento y que genera daños a personas o bienes, además de afectar la circulación normal."
+    },
+    {
+      "question": "¿Quién es un agente de tránsito según la legislación colombiana?",
+      "answer": 0,
+      "options": [
+        "A) Un funcionario o persona civil con autoridad para regular la circulación y vigilar el cumplimiento de normas de tránsito.",
+        "B) Un policía que se encarga exclusivamente de imponer comparendos.",
+        "C) Cualquier persona que trabaje en el sector del transporte público.",
+        "D) Un conductor de transporte público autorizado para regular el tráfico en ciertas vías."
+      ],
+      "descriptionAnswer": "El agente de tránsito es toda persona identificada y con autoridad para regular el tránsito vehicular y peatonal, así como vigilar el cumplimiento de normas de tránsito."
+    },
+    {
+      "question": "¿Cómo se define la alcoholemia en el Código Nacional de Tránsito?",
+      "answer": 3,
+      "options": [
+        "A) La cantidad de alcohol ingerida por una persona antes de conducir.",
+        "B) La capacidad de una persona para manejar después de consumir alcohol.",
+        "C) La cantidad de alcohol en el aire expirado por un conductor.",
+        "D) La cantidad de alcohol presente en la sangre de una persona en determinado momento."
+      ],
+      "descriptionAnswer": "El artículo 2 define la alcoholemia como la cantidad de alcohol en la sangre de una persona en un momento determinado."
+    },
+    {
+      "question": "¿Cuál es la característica principal de una autopista?",
+      "answer": 2,
+      "options": [
+        "A) Tener solo un carril en cada sentido de circulación.",
+        "B) No permitir la circulación de vehículos pesados.",
+        "C) Contar con calzadas separadas, múltiples carriles, control de acceso y velocidades reguladas.",
+        "D) Ser una vía exclusiva para automóviles particulares."
+      ],
+      "descriptionAnswer": "Una autopista se caracteriza por tener calzadas separadas, múltiples carriles, intersecciones en desnivel y control de acceso y velocidad."
+    },
+    {
+      "question": "Según el Código Nacional de Tránsito, una bicicleta es:",
+      "answer": 1,
+      "options": [
+        "A) Un vehículo motorizado de dos ruedas.",
+        "B) Un vehículo no motorizado de dos o más ruedas que se mueve con el esfuerzo del conductor.",
+        "C) Un medio de transporte exclusivo para vías secundarias.",
+        "D) Un aparato de recreación que no está sujeto a normas de tránsito."
+      ],
+      "descriptionAnswer": "El artículo 2 define la bicicleta como un vehículo no motorizado de dos o más ruedas que se desplaza mediante el esfuerzo del conductor con pedales."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones describe mejor qué es la calzada?",
+      "answer": 3,
+      "options": [
+        "A) La parte de la vía destinada exclusivamente a peatones.",
+        "B) Un carril reservado para el transporte público.",
+        "C) La franja lateral de una carretera donde pueden estacionarse los vehículos.",
+        "D) La zona de la vía destinada a la circulación de vehículos."
+      ],
+      "descriptionAnswer": "Según el artículo 2, la calzada es la zona de la vía destinada específicamente a la circulación de vehículos."
+    },
+    {
+      "question": "¿Qué elemento de seguridad es obligatorio para los motociclistas según la normativa?",
+      "answer": 0,
+      "options": [
+        "A) Casco que cumpla con la norma Icontec 4533 o su equivalente.",
+        "B) Chaleco reflectivo en cualquier momento del día.",
+        "C) Rodilleras y coderas en todo momento.",
+        "D) Un seguro de vida obligatorio."
+      ],
+      "descriptionAnswer": "El casco es un elemento de seguridad obligatorio para los motociclistas y debe cumplir con la norma Icontec 4533 o su equivalente."
+    },
+    {
+      "question": "¿Cuál es la función principal del cinturón de seguridad?",
+      "answer": 2,
+      "options": [
+        "A) Sujetar las puertas del vehículo en caso de un choque.",
+        "B) Evitar que el conductor y pasajeros caigan fuera del vehículo en una colisión.",
+        "C) Sujetar a los ocupantes al asiento para prevenir golpes por aceleración, desaceleración o volcamiento.",
+        "D) Garantizar que el vehículo cumpla con las normativas de seguridad vial."
+      ],
+      "descriptionAnswer": "El cinturón de seguridad mantiene sujetos a los ocupantes del vehículo para evitar golpes en caso de una desaceleración, aceleración súbita o volcamiento."
+    },
+    {
+      "question": "¿Cómo se define el semáforo en el Código Nacional de Tránsito?",
+      "answer": 1,
+      "options": [
+        "A) Un dispositivo mecánico para reducir la velocidad de los vehículos.",
+        "B) Un dispositivo electromagnético o electrónico que regula el tránsito mediante señales luminosas.",
+        "C) Una señal de tránsito reglamentaria de color rojo, amarillo y verde.",
+        "D) Un dispositivo usado solo en intersecciones de alto tráfico."
+      ],
+      "descriptionAnswer": "Según el artículo 2, un semáforo es un dispositivo electromagnético o electrónico que regula el tránsito de vehículos y peatones mediante señales luminosas."
+    },
+    {
+      "question": "¿Qué entidad es responsable de la implementación y funcionamiento del Registro Único Nacional de Tránsito (RUNT)?",
+      "answer": 1,
+      "options": [
+        "A) La Policía Nacional.",
+        "B) El Ministerio de Transporte.",
+        "C) La Secretaría de Movilidad de cada ciudad.",
+        "D) La Dirección de Tránsito y Transporte de la Policía."
+      ],
+      "descriptionAnswer": "El artículo 8° establece que el Ministerio de Transporte es el encargado de poner en funcionamiento el Registro Único Nacional de Tránsito (RUNT)."
+    },
+    {
+      "question": "¿Cuál de los siguientes registros hace parte del RUNT?",
+      "answer": 2,
+      "options": [
+        "A) Registro Nacional de la Propiedad de Vehículos.",
+        "B) Registro Nacional de Pasaportes.",
+        "C) Registro Nacional de Infracciones de Tránsito.",
+        "D) Registro Nacional de Propiedad de Inmuebles."
+      ],
+      "descriptionAnswer": "El Registro Nacional de Infracciones de Tránsito forma parte del RUNT y almacena información sobre multas y sanciones impuestas a los conductores."
+    },
+    {
+      "question": "¿Qué tipo de información se encuentra en el Registro Nacional de Conductores dentro del RUNT?",
+      "answer": 0,
+      "options": [
+        "A) Información sobre los conductores y su historial de licencias.",
+        "B) Datos de los vehículos matriculados en Colombia.",
+        "C) Listado de empresas de transporte público y privado.",
+        "D) Información sobre seguros obligatorios de vehículos."
+      ],
+      "descriptionAnswer": "El Registro Nacional de Conductores almacena información sobre los conductores, su historial de licencias y posibles sanciones."
+    },
+    {
+      "question": "¿Qué entidad está autorizada para implementar y mantener el SIMIT?",
+      "answer": 2,
+      "options": [
+        "A) El Ministerio de Transporte.",
+        "B) La Dirección de Tránsito y Transporte de la Policía Nacional.",
+        "C) La Federación Colombiana de Municipios.",
+        "D) La Superintendencia de Transporte."
+      ],
+      "descriptionAnswer": "El artículo 10 establece que la Federación Colombiana de Municipios es la entidad autorizada para implementar y actualizar el SIMIT a nivel nacional."
+    },
+    {
+      "question": "¿Cuál es la función principal del SIMIT?",
+      "answer": 1,
+      "options": [
+        "A) Llevar un registro de todos los vehículos matriculados en Colombia.",
+        "B) Consolidar la información de multas y sanciones de tránsito a nivel nacional y garantizar que no se realicen trámites si el infractor no está a paz y salvo.",
+        "C) Controlar la expedición de licencias de conducción en todo el país.",
+        "D) Regular el cobro de peajes en las carreteras nacionales."
+      ],
+      "descriptionAnswer": "El SIMIT permite consolidar la información de multas y sanciones de tránsito a nivel nacional y evita que se realicen trámites si el infractor no ha pagado sus multas."
+    },
+    {
+      "question": "Según el artículo 10, ¿qué ocurre si una persona tiene multas pendientes en el SIMIT?",
+      "answer": 3,
+      "options": [
+        "A) Puede renovar su licencia de conducción sin inconvenientes.",
+        "B) Puede vender su vehículo sin ninguna restricción.",
+        "C) No tendrá ninguna restricción en sus trámites de tránsito.",
+        "D) No podrá realizar trámites de tránsito hasta estar a paz y salvo con sus multas."
+      ],
+      "descriptionAnswer": "El artículo 10 establece que una persona con multas pendientes en el SIMIT no podrá realizar trámites de tránsito hasta que se ponga al día con sus sanciones."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un requisito obligatorio para obtener por primera vez la licencia de conducción?",
+      "answer": 0,
+      "options": [
+        "A) Saber leer y escribir.",
+        "B) Tener mínimo 14 años de edad.",
+        "C) Ser propietario de un vehículo.",
+        "D) Haber aprobado un curso de mecánica automotriz."
+      ],
+      "descriptionAnswer": "El artículo 19 establece que uno de los requisitos fundamentales para obtener la licencia de conducción es saber leer y escribir."
+    },
+    {
+      "question": "¿Cuál es la edad mínima para obtener una licencia de conducción para un vehículo de servicio particular?",
+      "answer": 2,
+      "options": [
+        "A) 14 años.",
+        "B) 18 años.",
+        "C) 16 años.",
+        "D) 21 años."
+      ],
+      "descriptionAnswer": "Para obtener una licencia de conducción, la edad mínima es de 16 años para vehículos particulares y 18 años para vehículos de servicio público."
+    },
+    {
+      "question": "Además de aprobar un examen teórico-práctico, ¿qué otro requisito de salud es necesario para obtener la licencia de conducción?",
+      "answer": 3,
+      "options": [
+        "A) Presentar un examen psicológico.",
+        "B) Tener un certificado de primeros auxilios.",
+        "C) No tener ningún tipo de enfermedad preexistente.",
+        "D) Presentar un certificado de aptitud física y mental expedido por un médico."
+      ],
+      "descriptionAnswer": "El artículo 19 exige que los solicitantes presenten un certificado de aptitud física y mental expedido por un médico para obtener la licencia de conducción."
+    },
+    {
+      "question": "¿Cuál es la vigencia de la licencia de conducción para vehículos particulares?",
+      "answer": 0,
+      "options": [
+        "A) Indefinida.",
+        "B) 5 años.",
+        "C) 10 años.",
+        "D) 3 años, con renovación obligatoria."
+      ],
+      "descriptionAnswer": "El artículo 22 establece que las licencias de conducción para vehículos particulares tienen vigencia indefinida."
+    },
+    {
+      "question": "¿Cuánto tiempo es válida la licencia de conducción para vehículos de servicio público?",
+      "answer": 3,
+      "options": [
+        "A) Indefinida.",
+        "B) 5 años.",
+        "C) 10 años.",
+        "D) 3 años, renovables con un certificado de aptitud física y mental."
+      ],
+      "descriptionAnswer": "Según el artículo 22, las licencias de conducción para vehículos de servicio público tienen una vigencia de 3 años y deben renovarse con un certificado de aptitud física y mental."
+    },
+    {
+      "question": "Para renovar la licencia de conducción de un vehículo de servicio público, ¿qué requisito es necesario?",
+      "answer": 2,
+      "options": [
+        "A) Presentar un examen teórico-práctico.",
+        "B) Pagar una multa de tránsito.",
+        "C) Obtener un certificado de aptitud física y mental.",
+        "D) No es necesario renovarla."
+      ],
+      "descriptionAnswer": "El artículo 22 establece que para renovar la licencia de un vehículo de servicio público es obligatorio presentar un certificado de aptitud física y mental."
+    },
+    {
+      "question": "¿Dónde se debe solicitar la renovación de la licencia de conducción?",
+      "answer": 1,
+      "options": [
+        "A) En la Federación Colombiana de Municipios.",
+        "B) En cualquier organismo de tránsito o entidad autorizada.",
+        "C) En la Policía Nacional de Tránsito.",
+        "D) Solo en la oficina donde se expidió la licencia original."
+      ],
+      "descriptionAnswer": "El artículo 23 establece que la renovación de la licencia de conducción se puede solicitar en cualquier organismo de tránsito o entidad autorizada."
+    },
+    {
+      "question": "¿En qué caso NO se podrá renovar una licencia de conducción?",
+      "answer": 3,
+      "options": [
+        "A) Si la licencia fue expedida hace menos de un año.",
+        "B) Si el titular no ha conducido en los últimos cinco años.",
+        "C) Si el titular ha cambiado de residencia a otra ciudad.",
+        "D) Si el titular tiene sanciones pendientes o deudas por infracciones."
+      ],
+      "descriptionAnswer": "Según el artículo 23, no se podrá renovar la licencia de conducción si el titular tiene sanciones pendientes o deudas por infracciones de tránsito."
+    },
+    {
+      "question": "¿Qué requisito es obligatorio antes de renovar una licencia de conducción?",
+      "answer": 2,
+      "options": [
+        "A) Aprobar un curso de conducción nuevamente.",
+        "B) Pasar un examen psicológico obligatorio.",
+        "C) No tener sanciones pendientes ni deudas por infracciones de tránsito.",
+        "D) Presentar el historial de conducción de los últimos cinco años."
+      ],
+      "descriptionAnswer": "El artículo 23 establece que para renovar una licencia de conducción es obligatorio estar a paz y salvo en sanciones y deudas por infracciones de tránsito."
+    },
+    {
+      "question": "¿Qué debe hacer un conductor para recategorizar su licencia de conducción?",
+      "answer": 2,
+      "options": [
+        "A) Solicitar la recategorización sin necesidad de presentar exámenes.",
+        "B) Solo presentar un certificado médico.",
+        "C) Aprobar un nuevo examen teórico-práctico y presentar un certificado de aptitud en conducción.",
+        "D) Pagar una tarifa especial sin realizar ningún trámite adicional."
+      ],
+      "descriptionAnswer": "El artículo 24 establece que para recategorizar la licencia de conducción es necesario aprobar un nuevo examen teórico-práctico y presentar un certificado de aptitud en conducción."
+    },
+    {
+      "question": "¿En qué consiste la recategorización de la licencia de conducción?",
+      "answer": 1,
+      "options": [
+        "A) En cambiar la licencia de servicio público a particular.",
+        "B) En obtener una categoría superior que permita conducir otros tipos de vehículos.",
+        "C) En renovar la licencia antes de su fecha de vencimiento.",
+        "D) En reducir la cantidad de puntos de penalización en la licencia."
+      ],
+      "descriptionAnswer": "La recategorización permite obtener una licencia de conducción de categoría superior, habilitando al conductor para manejar otros tipos de vehículos."
+    },
+    {
+      "question": "¿Qué certificado es obligatorio para solicitar la recategorización de la licencia de conducción?",
+      "answer": 3,
+      "options": [
+        "A) Un certificado de antecedentes judiciales.",
+        "B) Un certificado de experiencia como conductor.",
+        "C) Un certificado de pago de impuestos vehiculares.",
+        "D) Un certificado de aptitud en conducción."
+      ],
+      "descriptionAnswer": "Según el artículo 24, para recategorizar una licencia de conducción es obligatorio presentar un certificado de aptitud en conducción."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una causal para la suspensión o cancelación de la licencia de conducción?",
+      "answer": 0,
+      "options": [
+        "A) Imposibilidad física o mental para conducir.",
+        "B) No renovar la licencia a tiempo.",
+        "C) No haber conducido en más de cinco años.",
+        "D) Cambiar de ciudad de residencia."
+      ],
+      "descriptionAnswer": "El artículo 26 establece que la imposibilidad física o mental para conducir es una de las causales para la suspensión o cancelación de la licencia."
+    },
+    {
+      "question": "¿Qué sucede si una persona es sorprendida conduciendo en estado de embriaguez?",
+      "answer": 3,
+      "options": [
+        "A) Solo se le impondrá una multa económica.",
+        "B) Se le inmovilizará el vehículo por 24 horas.",
+        "C) No tendrá ninguna sanción si es su primera vez.",
+        "D) Puede ser sancionado con la suspensión o cancelación de la licencia de conducción."
+      ],
+      "descriptionAnswer": "Según el artículo 26, conducir en estado de embriaguez o bajo el efecto de drogas alucinógenas es una causal para la suspensión o cancelación de la licencia."
+    },
+    {
+      "question": "¿Por qué razón se puede suspender o cancelar la licencia de conducción en el caso de los vehículos particulares?",
+      "answer": 2,
+      "options": [
+        "A) Por no portar el SOAT vigente.",
+        "B) Por no llevar el kit de carretera completo.",
+        "C) Por prestar servicio público sin justificación.",
+        "D) Por conducir en carretera con exceso de velocidad."
+      ],
+      "descriptionAnswer": "El artículo 26 establece que la prestación de servicio público con vehículos particulares sin justificación es una causal de suspensión o cancelación de la licencia."
+    },
+    {
+      "question": "¿Cuál es la función del equipo de prevención y seguridad en un vehículo?",
+      "answer": 0,
+      "options": [
+        "A) Garantizar la seguridad del conductor y pasajeros en caso de emergencias.",
+        "B) Evitar que el vehículo sufra daños mecánicos.",
+        "C) Reducir el consumo de combustible.",
+        "D) Mejorar la velocidad del vehículo en carretera."
+      ],
+      "descriptionAnswer": "El equipo de prevención y seguridad es obligatorio para garantizar la seguridad del conductor y pasajeros en caso de emergencias o averías."
+    },
+    {
+      "question": "¿Qué elemento del equipo de carretera es fundamental para cambiar una llanta ponchada?",
+      "answer": 1,
+      "options": [
+        "A) Un extintor.",
+        "B) Un gato y una cruceta.",
+        "C) Dos señales de carretera en forma de triángulo reflectivo.",
+        "D) Un botiquín de primeros auxilios."
+      ],
+      "descriptionAnswer": "Para cambiar una llanta ponchada es necesario contar con un gato para elevar el vehículo y una cruceta para retirar las tuercas."
+    },
+    {
+      "question": "¿Por qué es obligatorio llevar un extintor en el vehículo?",
+      "answer": 2,
+      "options": [
+        "A) Para cumplir con los requisitos de la revisión técnico-mecánica.",
+        "B) Porque ayuda a limpiar el motor en caso de avería.",
+        "C) Para extinguir posibles incendios en el vehículo.",
+        "D) Para evitar multas de tránsito."
+      ],
+      "descriptionAnswer": "El extintor es obligatorio porque permite controlar incendios en el vehículo y prevenir emergencias mayores en caso de fuego."
+    },
+    {
+      "question": "¿Para qué sirven los tacos dentro del equipo de carretera?",
+      "answer": 3,
+      "options": [
+        "A) Para reemplazar una llanta en caso de emergencia.",
+        "B) Para levantar el vehículo en terrenos irregulares.",
+        "C) Para iluminar la zona de trabajo en la vía.",
+        "D) Para bloquear el vehículo y evitar que se mueva involuntariamente."
+      ],
+      "descriptionAnswer": "Los tacos sirven para bloquear el vehículo y evitar que se desplace accidentalmente mientras se realizan reparaciones o cambios de llanta."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos del equipo de carretera es útil en situaciones de baja visibilidad?",
+      "answer": 1,
+      "options": [
+        "A) El extintor.",
+        "B) La linterna.",
+        "C) La caja de herramientas.",
+        "D) La cruceta."
+      ],
+      "descriptionAnswer": "La linterna es un elemento útil en situaciones de baja visibilidad, como averías nocturnas o fallos eléctricos en el vehículo."
+    },
+    {
+      "question": "¿Qué ocurre si un conductor no porta el equipo de carretera obligatorio?",
+      "answer": 2,
+      "options": [
+        "A) No podrá renovar su licencia de conducción.",
+        "B) Su vehículo será inmovilizado de inmediato.",
+        "C) Puede ser sancionado con una multa de tránsito.",
+        "D) Solo recibirá una advertencia verbal."
+      ],
+      "descriptionAnswer": "No portar el equipo de carretera obligatorio puede generar una sanción de tránsito, ya que es un requisito establecido en la normativa vial."
+    },
+    {
+      "question": "¿Cuál de los siguientes datos debe contener obligatoriamente la licencia de tránsito?",
+      "answer": 0,
+      "options": [
+        "A) Características de identificación del vehículo, como marca, línea y modelo.",
+        "B) Historial de accidentes del vehículo.",
+        "C) Registro de infracciones del propietario.",
+        "D) Fecha de vencimiento de la licencia de conducción."
+      ],
+      "descriptionAnswer": "El artículo 38 establece que la licencia de tránsito debe incluir las características de identificación del vehículo, como marca, línea y modelo."
+    },
+    {
+      "question": "¿Qué información sobre la capacidad del vehículo se encuentra en la licencia de tránsito?",
+      "answer": 1,
+      "options": [
+        "A) Solo la cantidad de pasajeros permitidos.",
+        "B) El número máximo de pasajeros o toneladas que puede transportar.",
+        "C) El tipo de combustible que usa el vehículo.",
+        "D) El historial de revisiones técnico-mecánicas."
+      ],
+      "descriptionAnswer": "Según el artículo 38, la licencia de tránsito debe indicar el número máximo de pasajeros o la capacidad de carga en toneladas del vehículo."
+    },
+    {
+      "question": "¿Qué dato relacionado con el propietario aparece en la licencia de tránsito?",
+      "answer": 2,
+      "options": [
+        "A) Su historial de conducción.",
+        "B) Su dirección de residencia.",
+        "C) Su nombre y número de placa del vehículo.",
+        "D) Su puntaje en el RUNT."
+      ],
+      "descriptionAnswer": "La licencia de tránsito incluye el nombre del propietario del vehículo y la placa asignada, según lo establece el artículo 38."
+    },
+    {
+      "question": "¿Qué entidad es responsable de expedir la licencia de tránsito?",
+      "answer": 3,
+      "options": [
+        "A) La Policía Nacional.",
+        "B) La Federación Colombiana de Municipios.",
+        "C) El Ministerio de Transporte.",
+        "D) El organismo de tránsito que la expide."
+      ],
+      "descriptionAnswer": "El artículo 38 establece que la licencia de tránsito debe indicar la entidad responsable de su expedición, que es el organismo de tránsito correspondiente."
+    },
+    {
+      "question": "¿En cuál de las siguientes situaciones se debe cancelar la licencia de tránsito?",
+      "answer": 0,
+      "options": [
+        "A) Cuando el vehículo sufre destrucción total.",
+        "B) Cuando el propietario cambia de residencia a otra ciudad.",
+        "C) Cuando el vehículo es vendido a otra persona.",
+        "D) Cuando el vehículo cambia de color o diseño."
+      ],
+      "descriptionAnswer": "El artículo 40 establece que la licencia de tránsito debe cancelarse cuando el vehículo sufre destrucción total."
+    },
+    {
+      "question": "¿Qué ocurre con la licencia de tránsito si un vehículo es exportado?",
+      "answer": 1,
+      "options": [
+        "A) Se mantiene vigente en el país de origen.",
+        "B) Debe ser cancelada.",
+        "C) Se suspende temporalmente.",
+        "D) Se renueva automáticamente en el nuevo país."
+      ],
+      "descriptionAnswer": "Según el artículo 40, la exportación de un vehículo es una causal para la cancelación de su licencia de tránsito."
+    },
+    {
+      "question": "¿En qué caso se puede cancelar la licencia de tránsito por hurto o desaparición del vehículo?",
+      "answer": 2,
+      "options": [
+        "A) Cuando el propietario lo reporta verbalmente.",
+        "B) Solo si el vehículo no aparece después de un año.",
+        "C) Cuando el hurto o desaparición están debidamente documentados.",
+        "D) Cuando el propietario decide darlo de baja voluntariamente."
+      ],
+      "descriptionAnswer": "El artículo 40 establece que la cancelación de la licencia de tránsito por hurto o desaparición solo procede si el hecho está documentado oficialmente."
+    },
+    {
+      "question": "¿Qué significa la sigla SOAT en el contexto del tránsito en Colombia?",
+      "answer": 0,
+      "options": [
+        "A) Seguro Obligatorio de Accidentes de Tránsito.",
+        "B) Sistema de Ordenamiento de Automotores y Tránsito.",
+        "C) Servicio Oficial de Atención en Tránsito.",
+        "D) Seguro Opcional para Automóviles y Transporte."
+      ],
+      "descriptionAnswer": "El artículo 42 establece que SOAT significa 'Seguro Obligatorio de Accidentes de Tránsito', el cual es un requisito obligatorio para todos los vehículos en Colombia."
+    },
+    {
+      "question": "¿Cuál es la función principal del SOAT?",
+      "answer": 1,
+      "options": [
+        "A) Cubrir daños materiales en accidentes de tránsito.",
+        "B) Garantizar la atención médica de las víctimas de accidentes de tránsito.",
+        "C) Servir como garantía para la compra de un vehículo.",
+        "D) Proteger al propietario del vehículo contra robos."
+      ],
+      "descriptionAnswer": "El SOAT tiene como función principal garantizar la atención médica de las víctimas de accidentes de tránsito, cubriendo gastos hospitalarios y de rehabilitación."
+    },
+    {
+      "question": "¿Es obligatorio que todos los vehículos en Colombia cuenten con el SOAT vigente?",
+      "answer": 0,
+      "options": [
+        "A) Sí, sin excepción.",
+        "B) No, solo los vehículos de servicio público.",
+        "C) No, solo los vehículos particulares.",
+        "D) No, solo los vehículos de carga y transporte de pasajeros."
+      ],
+      "descriptionAnswer": "El artículo 42 establece que el SOAT es obligatorio para todos los vehículos sin excepción, asegurando cobertura en caso de accidentes."
+    },
+    {
+      "question": "¿Qué sucede si un vehículo circula sin el SOAT vigente?",
+      "answer": 3,
+      "options": [
+        "A) No tiene ninguna consecuencia legal.",
+        "B) Solo recibe una advertencia verbal.",
+        "C) Puede continuar circulando si no ha tenido accidentes.",
+        "D) Puede ser sancionado con una multa e inmovilización del vehículo."
+      ],
+      "descriptionAnswer": "Circular sin el SOAT vigente puede generar sanciones económicas y la inmovilización del vehículo, según las normas de tránsito en Colombia."
+    },
+    {
+      "question": "¿Cómo se clasifican las placas de los vehículos según su servicio?",
+      "answer": 1,
+      "options": [
+        "A) Por el tipo de combustible que usan.",
+        "B) Por el servicio que prestan: oficial, público, particular, diplomático, consular y de misiones especiales.",
+        "C) Según el color del vehículo.",
+        "D) De acuerdo con la ciudad donde fueron registradas."
+      ],
+      "descriptionAnswer": "El artículo 44 establece que las placas de los vehículos se clasifican según el tipo de servicio que prestan, como oficial, público, particular, diplomático, consular y de misiones especiales."
+    },
+    {
+      "question": "¿Qué tipo de placa corresponde a un vehículo de transporte público?",
+      "answer": 2,
+      "options": [
+        "A) Particular.",
+        "B) Diplomática.",
+        "C) Pública.",
+        "D) Consular."
+      ],
+      "descriptionAnswer": "Las placas de servicio público identifican a los vehículos destinados al transporte de pasajeros o carga de manera comercial."
+    },
+    {
+      "question": "¿Qué vehículos tienen placas diplomáticas?",
+      "answer": 3,
+      "options": [
+        "A) Vehículos de servicio público.",
+        "B) Vehículos de particulares con permiso especial.",
+        "C) Vehículos de la policía y el ejército.",
+        "D) Vehículos de embajadas y misiones diplomáticas extranjeras en Colombia."
+      ],
+      "descriptionAnswer": "Las placas diplomáticas están destinadas a los vehículos pertenecientes a embajadas y misiones diplomáticas extranjeras en Colombia."
+    },
+    {
+      "question": "¿Qué tipo de vehículos utilizan placas de misiones especiales?",
+      "answer": 0,
+      "options": [
+        "A) Vehículos asignados a organismos internacionales o misiones especiales dentro del país.",
+        "B) Vehículos de transporte escolar.",
+        "C) Vehículos particulares con permiso de carga.",
+        "D) Vehículos de emergencias médicas."
+      ],
+      "descriptionAnswer": "Las placas de misiones especiales están destinadas a vehículos asignados a organismos internacionales o misiones especiales en Colombia."
+    },
+    {
+      "question": "¿Qué se debe hacer antes de modificar las características de un vehículo?",
+      "answer": 2,
+      "options": [
+        "A) Realizar el cambio y luego notificar a la autoridad de tránsito.",
+        "B) Solo informar a la aseguradora del vehículo.",
+        "C) Obtener autorización previa de la autoridad de tránsito e inscribir el cambio en el Registro Nacional Automotor.",
+        "D) No es necesario ningún trámite si el cambio es menor."
+      ],
+      "descriptionAnswer": "El artículo 49 establece que cualquier modificación en las características de un vehículo debe contar con autorización previa de la autoridad de tránsito y registrarse en el Registro Nacional Automotor."
+    },
+    {
+      "question": "¿Qué ocurre si un conductor modifica su vehículo sin autorización de la autoridad de tránsito?",
+      "answer": 3,
+      "options": [
+        "A) No tiene ninguna consecuencia.",
+        "B) Solo debe informar la modificación en su próxima revisión técnico-mecánica.",
+        "C) Puede recibir una advertencia verbal por parte de un agente de tránsito.",
+        "D) Puede ser sancionado y el vehículo inmovilizado hasta que regularice la situación."
+      ],
+      "descriptionAnswer": "Si un conductor modifica su vehículo sin autorización, puede enfrentar sanciones y la inmovilización del vehículo hasta que realice el trámite correspondiente."
+    },
+    {
+      "question": "¿Dónde debe registrarse cualquier modificación autorizada en un vehículo?",
+      "answer": 1,
+      "options": [
+        "A) En el SIMIT.",
+        "B) En el Registro Nacional Automotor.",
+        "C) En la base de datos de la aseguradora.",
+        "D) En la tarjeta de propiedad del vehículo sin necesidad de notificar a tránsito."
+      ],
+      "descriptionAnswer": "Según el artículo 49, cualquier modificación autorizada en un vehículo debe registrarse en el Registro Nacional Automotor."
+    },
+    {
+      "question": "¿Cuáles son las condiciones mecánicas y de seguridad mínimas que debe garantizar un vehículo para transitar?",
+      "answer": 0,
+      "options": [
+        "A) Funcionamiento de frenos, dirección, suspensión, señales visuales y audibles, y cumplimiento de normas de emisión de gases.",
+        "B) Tener llantas nuevas y estar libre de rayones o abolladuras.",
+        "C) Contar con aire acondicionado y vidrios polarizados.",
+        "D) Tener un sistema de entretenimiento a bordo y un GPS."
+      ],
+      "descriptionAnswer": "El artículo 50 establece que un vehículo debe garantizar el funcionamiento de frenos, dirección, suspensión, señales visuales y audibles, además de cumplir con las normas de emisión de gases."
+    },
+    {
+      "question": "¿Por qué es importante que un vehículo cumpla con las normas de emisión de gases?",
+      "answer": 2,
+      "options": [
+        "A) Para evitar que el motor se sobrecaliente.",
+        "B) Para mejorar la velocidad del vehículo.",
+        "C) Para reducir la contaminación ambiental y cumplir con la regulación vigente.",
+        "D) Para disminuir el consumo de combustible."
+      ],
+      "descriptionAnswer": "Cumplir con las normas de emisión de gases es fundamental para reducir la contaminación ambiental y garantizar que el vehículo no afecte la calidad del aire."
+    },
+    {
+      "question": "¿Qué puede suceder si un vehículo no cumple con las condiciones mecánicas y de seguridad exigidas?",
+      "answer": 3,
+      "options": [
+        "A) Solo deberá hacer las reparaciones cuando lo considere necesario.",
+        "B) Puede recibir una advertencia sin ninguna sanción.",
+        "C) Solo se verá afectado en su desempeño, pero podrá seguir circulando.",
+        "D) Puede ser sancionado e incluso inmovilizado hasta que cumpla con las condiciones requeridas."
+      ],
+      "descriptionAnswer": "Si un vehículo no cumple con las condiciones mecánicas y de seguridad, puede ser sancionado e inmovilizado hasta que se realicen las reparaciones necesarias."
+    },
+    {
+      "question": "¿Cada cuánto tiempo deben someterse a revisión técnico-mecánica los vehículos de servicio público, escolar y turístico?",
+      "answer": 1,
+      "options": [
+        "A) Cada dos años.",
+        "B) Anualmente.",
+        "C) Solo cuando presenten fallas mecánicas.",
+        "D) Cada cinco años."
+      ],
+      "descriptionAnswer": "El artículo 51 establece que los vehículos de servicio público, escolar y turístico deben someterse a revisión técnico-mecánica cada año."
+    },
+    {
+      "question": "¿Cuál de los siguientes aspectos es verificado en la revisión técnico-mecánica de un vehículo de servicio público?",
+      "answer": 0,
+      "options": [
+        "A) Estado de la carrocería, emisiones de gases, sistema mecánico y eléctrico, y elementos de seguridad.",
+        "B) El historial de multas del conductor.",
+        "C) La cantidad de pasajeros transportados en el último año.",
+        "D) El consumo de combustible del vehículo."
+      ],
+      "descriptionAnswer": "La revisión técnico-mecánica evalúa el estado de la carrocería, emisiones de gases, sistema mecánico y eléctrico, y elementos de seguridad del vehículo."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la revisión técnico-mecánica en vehículos de servicio público?",
+      "answer": 2,
+      "options": [
+        "A) Verificar si el vehículo tiene seguro vigente.",
+        "B) Garantizar que el conductor tenga licencia de conducción.",
+        "C) Asegurar que el vehículo cumpla con las condiciones de seguridad y funcionamiento adecuadas.",
+        "D) Controlar el pago de impuestos vehiculares."
+      ],
+      "descriptionAnswer": "El propósito de la revisión técnico-mecánica es garantizar que el vehículo cumpla con las condiciones de seguridad y funcionamiento adecuadas para prevenir accidentes y fallas mecánicas."
+    },
+    {
+      "question": "¿Qué sucede si un vehículo de servicio público no realiza la revisión técnico-mecánica obligatoria?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia legal.",
+        "B) Solo deberá realizar la revisión cuando sea detenido por un agente de tránsito.",
+        "C) Podrá seguir circulando si tiene menos de cinco años de uso.",
+        "D) Puede ser sancionado e inmovilizado hasta que cumpla con la revisión obligatoria."
+      ],
+      "descriptionAnswer": "Si un vehículo de servicio público no cumple con la revisión técnico-mecánica, puede ser sancionado e inmovilizado hasta que realice la inspección requerida."
+    },
+    {
+      "question": "¿Cada cuánto tiempo deben someterse a revisión de gases los vehículos de servicio público?",
+      "answer": 0,
+      "options": [
+        "A) Anualmente.",
+        "B) Cada dos años.",
+        "C) Cada cinco años.",
+        "D) Solo cuando presenten fallas mecánicas."
+      ],
+      "descriptionAnswer": "El artículo 52 establece que los vehículos de servicio público deben someterse a revisión de gases cada año para garantizar que cumplen con las normas ambientales."
+    },
+    {
+      "question": "¿Con qué frecuencia deben realizar la revisión de gases los vehículos de servicio particular?",
+      "answer": 1,
+      "options": [
+        "A) Anualmente.",
+        "B) Cada dos años.",
+        "C) Cada tres años.",
+        "D) No es obligatoria para estos vehículos."
+      ],
+      "descriptionAnswer": "Según el artículo 52, los vehículos de servicio particular deben realizar la revisión de gases cada dos años para verificar que cumplen con las regulaciones ambientales."
+    },
+    {
+      "question": "¿Cuál es el propósito principal de la revisión de gases en los vehículos?",
+      "answer": 2,
+      "options": [
+        "A) Verificar el nivel de combustible en el tanque.",
+        "B) Comprobar el estado de los frenos y la suspensión.",
+        "C) Asegurar que las emisiones contaminantes cumplan con los límites permitidos.",
+        "D) Garantizar que el vehículo no supere cierta velocidad máxima."
+      ],
+      "descriptionAnswer": "La revisión de gases tiene como objetivo asegurar que los vehículos cumplan con los límites de emisiones contaminantes establecidos por la normativa ambiental."
+    },
+    {
+      "question": "¿Qué puede suceder si un vehículo no cumple con la revisión de gases en el periodo establecido?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia.",
+        "B) Solo recibirá una advertencia por parte de un agente de tránsito.",
+        "C) Podrá seguir circulando hasta la próxima revisión técnico-mecánica.",
+        "D) Puede ser sancionado e incluso inmovilizado hasta que realice la revisión correspondiente."
+      ],
+      "descriptionAnswer": "Si un vehículo no cumple con la revisión de gases en el tiempo estipulado, puede ser sancionado e inmovilizado hasta que se regularice su situación."
+    },
+    {
+      "question": "¿Dónde debe realizarse la revisión técnico-mecánica y de gases de un vehículo?",
+      "answer": 0,
+      "options": [
+        "A) En centros de diagnóstico automotor autorizados.",
+        "B) En cualquier taller mecánico.",
+        "C) En las estaciones de servicio.",
+        "D) En la Secretaría de Movilidad de cada ciudad."
+      ],
+      "descriptionAnswer": "El artículo 53 establece que la revisión técnico-mecánica y de gases debe realizarse exclusivamente en centros de diagnóstico automotor autorizados."
+    },
+    {
+      "question": "¿Quién establece las condiciones mínimas que deben cumplir los centros de diagnóstico automotor?",
+      "answer": 1,
+      "options": [
+        "A) La Policía de Tránsito.",
+        "B) El Ministerio de Transporte.",
+        "C) Las alcaldías municipales.",
+        "D) Las aseguradoras de vehículos."
+      ],
+      "descriptionAnswer": "Según el artículo 53, el Ministerio de Transporte es la entidad encargada de establecer las condiciones mínimas que deben cumplir los centros de diagnóstico automotor."
+    },
+    {
+      "question": "¿Por qué es importante que los centros de diagnóstico automotor estén autorizados?",
+      "answer": 2,
+      "options": [
+        "A) Para evitar fraudes en la compra de vehículos.",
+        "B) Para garantizar que los vehículos sean inspeccionados solo por mecánicos certificados.",
+        "C) Para asegurar que las revisiones se realicen con estándares de calidad y cumplimiento normativo.",
+        "D) Para reducir el costo de la revisión técnico-mecánica."
+      ],
+      "descriptionAnswer": "Los centros de diagnóstico automotor autorizados garantizan que las revisiones se realicen con estándares de calidad y cumpliendo las normativas de seguridad y emisiones."
+    },
+    {
+      "question": "¿Qué ocurre si un vehículo realiza la revisión técnico-mecánica en un establecimiento no autorizado?",
+      "answer": 3,
+      "options": [
+        "A) La revisión sigue siendo válida.",
+        "B) Puede recibir un descuento en el trámite de matrícula.",
+        "C) No tendrá ninguna consecuencia legal.",
+        "D) La revisión no será válida y el vehículo puede ser sancionado."
+      ],
+      "descriptionAnswer": "Si la revisión técnico-mecánica se realiza en un centro no autorizado, no será válida y el vehículo puede ser sancionado por incumplir la normativa."
+    },
+    {
+      "question": "¿Quiénes están obligados a llevar un registro computarizado de las revisiones técnico-mecánicas y de gases?",
+      "answer": 0,
+      "options": [
+        "A) Los talleres de mecánica y los centros de diagnóstico automotor.",
+        "B) Los concesionarios de vehículos nuevos.",
+        "C) Los propietarios de los vehículos.",
+        "D) Las aseguradoras de automóviles."
+      ],
+      "descriptionAnswer": "El artículo 54 establece que los talleres de mecánica y los centros de diagnóstico automotor deben llevar un registro computarizado de las revisiones técnico-mecánicas y de gases."
+    },
+    {
+      "question": "¿Cuál es el propósito del registro computarizado en los centros de diagnóstico automotor?",
+      "answer": 1,
+      "options": [
+        "A) Almacenar la información de propietarios de vehículos.",
+        "B) Registrar los resultados de las revisiones técnico-mecánicas y de gases de cada vehículo.",
+        "C) Controlar el pago de impuestos vehiculares.",
+        "D) Verificar el historial de infracciones del conductor."
+      ],
+      "descriptionAnswer": "El registro computarizado permite almacenar los resultados de las revisiones técnico-mecánicas y de gases de cada vehículo, garantizando un control adecuado."
+    },
+    {
+      "question": "¿Cómo contribuye el registro computarizado a la seguridad vial?",
+      "answer": 2,
+      "options": [
+        "A) Permite identificar a los propietarios de vehículos más antiguos.",
+        "B) Facilita la compra y venta de vehículos usados.",
+        "C) Asegura el seguimiento y control de las condiciones mecánicas de los vehículos.",
+        "D) Reduce el costo de las revisiones técnico-mecánicas."
+      ],
+      "descriptionAnswer": "El registro computarizado contribuye a la seguridad vial al permitir un seguimiento y control eficiente del estado mecánico y de emisiones de los vehículos."
+    },
+    {
+      "question": "¿Qué sucede si un taller de mecánica o centro de diagnóstico automotor no lleva el registro computarizado?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia legal.",
+        "B) Podrá seguir operando sin problemas.",
+        "C) Solo recibirá una advertencia verbal.",
+        "D) Puede ser sancionado y perder la autorización para operar."
+      ],
+      "descriptionAnswer": "Si un centro de diagnóstico automotor o taller de mecánica no lleva el registro computarizado, puede ser sancionado y perder su autorización para operar."
+    },
+    {
+      "question": "¿Qué principio fundamental debe seguir toda persona que participe en el tránsito?",
+      "answer": 0,
+      "options": [
+        "A) No obstaculizar, perjudicar ni poner en riesgo a los demás.",
+        "B) Priorizar siempre el paso de vehículos sobre peatones.",
+        "C) Ceder el paso únicamente a vehículos de emergencia.",
+        "D) Conducir siempre a la velocidad máxima permitida."
+      ],
+      "descriptionAnswer": "El artículo 55 establece que toda persona en el tránsito debe actuar de manera que no obstaculice, perjudique ni ponga en riesgo a los demás."
+    },
+    {
+      "question": "¿Quiénes están obligados a conocer y cumplir las normas y señales de tránsito?",
+      "answer": 1,
+      "options": [
+        "A) Solo los conductores de vehículos motorizados.",
+        "B) Conductores, pasajeros y peatones.",
+        "C) Únicamente los motociclistas y ciclistas.",
+        "D) Solo los transportadores de servicio público."
+      ],
+      "descriptionAnswer": "Según el artículo 55, todas las personas que participan en el tránsito, ya sean conductores, pasajeros o peatones, deben conocer y respetar las normas y señales de tránsito."
+    },
+    {
+      "question": "¿Qué tipo de acciones pueden poner en riesgo la seguridad vial?",
+      "answer": 2,
+      "options": [
+        "A) Ceder el paso a otros conductores en intersecciones.",
+        "B) Respetar los límites de velocidad.",
+        "C) Ignorar las señales de tránsito y actuar de manera imprudente.",
+        "D) Usar el cinturón de seguridad en todo momento."
+      ],
+      "descriptionAnswer": "Ignorar las señales de tránsito y actuar de manera imprudente puede poner en riesgo la seguridad vial de todos los participantes en el tránsito."
+    },
+    {
+      "question": "¿Cuál es la responsabilidad de un peatón en la vía pública?",
+      "answer": 3,
+      "options": [
+        "A) Circular por la calzada cuando no haya vehículos cerca.",
+        "B) No tiene ninguna obligación ya que los conductores deben evitar atropellarlo.",
+        "C) Solo cruzar la calle cuando el semáforo esté en rojo para los vehículos.",
+        "D) Cumplir las normas de tránsito y no generar riesgos para otros usuarios de la vía."
+      ],
+      "descriptionAnswer": "El artículo 55 señala que los peatones también deben cumplir las normas de tránsito y evitar generar riesgos en la vía pública."
+    },
+    {
+      "question": "¿Qué deben hacer los conductores respecto a los peatones según el artículo 63?",
+      "answer": 0,
+      "options": [
+        "A) Respetar sus derechos e integridad.",
+        "B) Priorizar siempre el paso de los vehículos sobre los peatones.",
+        "C) Permitir el cruce de peatones solo en zonas rurales.",
+        "D) Solo detenerse cuando un peatón haga una señal de alto."
+      ],
+      "descriptionAnswer": "El artículo 63 establece que los conductores deben respetar los derechos e integridad de los peatones, garantizando su seguridad en la vía."
+    },
+    {
+      "question": "¿Por qué es importante que los conductores respeten los derechos de los peatones?",
+      "answer": 1,
+      "options": [
+        "A) Para evitar sanciones económicas.",
+        "B) Para garantizar la seguridad vial y prevenir accidentes.",
+        "C) Porque así se reduce el tráfico vehicular.",
+        "D) Porque es una norma opcional de cortesía en la vía."
+      ],
+      "descriptionAnswer": "El respeto a los peatones es esencial para garantizar la seguridad vial y prevenir accidentes en las vías públicas."
+    },
+    {
+      "question": "¿En qué situaciones los conductores deben ceder el paso a los peatones?",
+      "answer": 2,
+      "options": [
+        "A) Solo en intersecciones con semáforos.",
+        "B) Únicamente en pasos peatonales señalizados.",
+        "C) Siempre que los peatones tengan el derecho de paso, como en cebras o intersecciones.",
+        "D) Solo cuando los peatones sean niños o adultos mayores."
+      ],
+      "descriptionAnswer": "Los conductores deben ceder el paso a los peatones siempre que estos tengan prioridad, como en pasos peatonales o intersecciones."
+    },
+    {
+      "question": "¿Qué podría suceder si un conductor no respeta los derechos de los peatones?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia legal.",
+        "B) Solo recibirá una advertencia verbal.",
+        "C) Será sancionado únicamente si un peatón presenta una queja.",
+        "D) Puede ser multado y sancionado por infringir las normas de tránsito."
+      ],
+      "descriptionAnswer": "El incumplimiento de las normas de respeto a los peatones puede generar multas y sanciones de tránsito."
+    },
+    {
+      "question": "¿Qué obligación tiene un conductor al dar un giro o cambiar de carril?",
+      "answer": 0,
+      "options": [
+        "A) Utilizar las señales direccionales del vehículo.",
+        "B) Hacer sonar el claxon para advertir a los demás conductores.",
+        "C) Realizar el cambio de carril de manera rápida sin necesidad de señalización.",
+        "D) Solo hacer señales manuales sin usar las direccionales del vehículo."
+      ],
+      "descriptionAnswer": "El artículo 67 establece que los conductores deben utilizar las señales direccionales del vehículo al girar o cambiar de carril."
+    },
+    {
+      "question": "¿Qué tipo de señales deben usarse en caso de una emergencia si las direccionales del vehículo no funcionan?",
+      "answer": 1,
+      "options": [
+        "A) No es necesario hacer ninguna señal.",
+        "B) Señales manuales.",
+        "C) Encender las luces altas repetidamente.",
+        "D) Tocar la bocina de manera prolongada."
+      ],
+      "descriptionAnswer": "Si las direccionales no funcionan en una emergencia, el conductor debe utilizar señales manuales para advertir a los demás usuarios de la vía."
+    },
+    {
+      "question": "¿Por qué es importante utilizar las señales direccionales al conducir?",
+      "answer": 2,
+      "options": [
+        "A) Para ahorrar combustible.",
+        "B) Para evitar que otros conductores lo adelanten.",
+        "C) Para prevenir accidentes y mejorar la comunicación en la vía.",
+        "D) Porque ayuda a aumentar la velocidad del vehículo."
+      ],
+      "descriptionAnswer": "El uso de señales direccionales permite mejorar la comunicación entre conductores y peatones, reduciendo el riesgo de accidentes."
+    },
+    {
+      "question": "¿Qué podría suceder si un conductor no usa las señales direccionales al cambiar de carril o girar?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia.",
+        "B) Solo recibirá una advertencia si un agente de tránsito lo observa.",
+        "C) Podrá cambiar de carril sin problemas si nadie más circula cerca.",
+        "D) Puede provocar un accidente y ser sancionado con una multa de tránsito."
+      ],
+      "descriptionAnswer": "No usar las señales direccionales puede generar accidentes y sanciones, ya que es una norma de tránsito obligatoria."
+    },
+    {
+      "question": "¿En qué situaciones está permitido realizar maniobras de retroceso en las vías públicas?",
+      "answer": 0,
+      "options": [
+        "A) Solo en casos de estacionamiento o emergencia.",
+        "B) Siempre que el conductor lo considere necesario.",
+        "C) Para evitar un semáforo en rojo.",
+        "D) Para tomar una vía alternativa más rápida."
+      ],
+      "descriptionAnswer": "El artículo 69 establece que el retroceso en vías públicas solo está permitido en situaciones de estacionamiento o emergencia."
+    },
+    {
+      "question": "¿Por qué está prohibido hacer maniobras de retroceso en las vías públicas?",
+      "answer": 1,
+      "options": [
+        "A) Porque puede desgastar la transmisión del vehículo.",
+        "B) Porque puede generar accidentes al reducir la visibilidad del conductor.",
+        "C) Porque está permitido solo para vehículos de servicio público.",
+        "D) Porque puede generar multas por obstrucción del tráfico."
+      ],
+      "descriptionAnswer": "El retroceso en vías públicas está prohibido porque puede generar accidentes al reducir la visibilidad y la capacidad de reacción del conductor."
+    },
+    {
+      "question": "¿Qué debe hacer un conductor si necesita retroceder en una vía pública debido a una emergencia?",
+      "answer": 2,
+      "options": [
+        "A) Retroceder sin precaución para salir rápido del problema.",
+        "B) Usar solo las luces de parqueo sin señalizar con otras alertas.",
+        "C) Asegurarse de que la maniobra sea segura, señalizar adecuadamente y realizarla con extrema precaución.",
+        "D) Pedir a otros conductores que detengan el tráfico mientras retrocede."
+      ],
+      "descriptionAnswer": "Si un conductor debe retroceder en una emergencia, debe asegurarse de que la maniobra sea segura, señalizar adecuadamente y realizarla con precaución."
+    },
+    {
+      "question": "¿Qué sanción puede recibir un conductor por realizar maniobras de retroceso indebidas en una vía pública?",
+      "answer": 3,
+      "options": [
+        "A) Ninguna, siempre y cuando no cause un accidente.",
+        "B) Solo una advertencia verbal por parte de un agente de tránsito.",
+        "C) La obligación de repetir el examen teórico de conducción.",
+        "D) Una multa y posible sanción si pone en peligro la seguridad vial."
+      ],
+      "descriptionAnswer": "Realizar maniobras de retroceso indebidas puede acarrear una multa y sanciones, ya que representa un riesgo para la seguridad vial."
+    },
+    {
+      "question": "¿Qué vehículo tiene prelación en una intersección no señalizada?",
+      "answer": 0,
+      "options": [
+        "A) El vehículo que se encuentra a la derecha.",
+        "B) El vehículo de mayor tamaño.",
+        "C) El vehículo que circula a mayor velocidad.",
+        "D) El vehículo que toque la bocina primero."
+      ],
+      "descriptionAnswer": "Según el artículo 70, en una intersección no señalizada tiene prelación el vehículo que se encuentra a la derecha."
+    },
+    {
+      "question": "¿Quién tiene prelación en una glorieta o rotonda?",
+      "answer": 1,
+      "options": [
+        "A) El vehículo que va a ingresar a la glorieta.",
+        "B) El vehículo que ya está dentro de la glorieta.",
+        "C) El vehículo más rápido.",
+        "D) El vehículo que viene desde una vía principal."
+      ],
+      "descriptionAnswer": "El artículo 70 establece que en una glorieta tiene prelación el vehículo que ya está circulando dentro de ella."
+    },
+    {
+      "question": "¿Qué debe hacer un conductor al llegar a una intersección no señalizada?",
+      "answer": 2,
+      "options": [
+        "A) Acelerar para cruzar primero.",
+        "B) Tocar la bocina para advertir su paso.",
+        "C) Ceder el paso al vehículo que se encuentre a su derecha.",
+        "D) Detenerse por completo, sin importar si hay vehículos."
+      ],
+      "descriptionAnswer": "En una intersección no señalizada, el conductor debe ceder el paso al vehículo que se encuentra a su derecha para evitar accidentes."
+    },
+    {
+      "question": "¿Qué puede ocurrir si un conductor no respeta la prelación en una glorieta?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia.",
+        "B) Solo recibirá una advertencia si no hay tráfico.",
+        "C) Tendrá que salir de la glorieta y volver a ingresar correctamente.",
+        "D) Puede causar un accidente y ser sancionado con una multa de tránsito."
+      ],
+      "descriptionAnswer": "No respetar la prelación en una glorieta puede causar accidentes y generar sanciones, ya que interfiere con la circulación segura de los vehículos."
+    },
+    {
+      "question": "¿Cómo debe realizarse el remolque de un vehículo según el artículo 72?",
+      "answer": 0,
+      "options": [
+        "A) Con una grúa destinada para este fin.",
+        "B) Con cualquier vehículo particular que tenga una cuerda resistente.",
+        "C) Solo si el conductor del vehículo averiado está presente.",
+        "D) De cualquier manera, siempre que se haga con precaución."
+      ],
+      "descriptionAnswer": "El artículo 72 establece que los vehículos solo deben ser remolcados por una grúa destinada para tal fin."
+    },
+    {
+      "question": "¿En qué caso se permite que un vehículo sea remolcado por otro en una vía urbana?",
+      "answer": 1,
+      "options": [
+        "A) Cuando el vehículo averiado necesita llegar a un taller cercano.",
+        "B) Solo para despejar la vía en caso de urgencia.",
+        "C) Siempre que el remolque no supere 500 metros de distancia.",
+        "D) Si el conductor del vehículo remolcado firma una autorización."
+      ],
+      "descriptionAnswer": "El artículo 72 permite el remolque por otro vehículo en una vía urbana solo en caso de urgencia y con el objetivo de despejar la vía."
+    },
+    {
+      "question": "¿Por qué es obligatorio utilizar una grúa para remolcar vehículos?",
+      "answer": 2,
+      "options": [
+        "A) Para evitar daños en la suspensión del vehículo.",
+        "B) Porque reduce el tráfico en las vías principales.",
+        "C) Para garantizar la seguridad vial y evitar accidentes.",
+        "D) Porque es un servicio exclusivo de las aseguradoras."
+      ],
+      "descriptionAnswer": "El uso de grúas para remolcar vehículos es obligatorio para garantizar la seguridad vial y evitar maniobras peligrosas en la vía pública."
+    },
+    {
+      "question": "¿Qué podría ocurrir si un conductor intenta remolcar un vehículo sin cumplir con las normas establecidas?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia legal.",
+        "B) Solo recibirá una advertencia verbal por parte de un agente de tránsito.",
+        "C) Podrá continuar con el remolque si no afecta la movilidad.",
+        "D) Puede ser sancionado y generar un riesgo de accidente en la vía."
+      ],
+      "descriptionAnswer": "Remolcar un vehículo sin cumplir las normas puede generar accidentes y sanciones, ya que no se garantiza la seguridad en la maniobra."
+    },
+    {
+      "question": "¿Cómo deben estacionarse los vehículos en vías urbanas según el artículo 75?",
+      "answer": 0,
+      "options": [
+        "A) Lo más cercano posible al andén, a no menos de 30 cm de este.",
+        "B) A cualquier distancia del andén, siempre que no obstruya el tráfico.",
+        "C) A una distancia mínima de 1 metro del andén.",
+        "D) En cualquier lugar de la vía, si el estacionamiento es breve."
+      ],
+      "descriptionAnswer": "El artículo 75 establece que los vehículos deben estacionarse lo más cerca posible del andén, manteniendo al menos 30 cm de distancia."
+    },
+    {
+      "question": "¿A qué distancia mínima de una intersección debe estacionarse un vehículo?",
+      "answer": 1,
+      "options": [
+        "A) 2 metros.",
+        "B) 5 metros.",
+        "C) 10 metros.",
+        "D) No hay una distancia mínima establecida."
+      ],
+      "descriptionAnswer": "Según el artículo 75, un vehículo debe estacionarse a una distancia mínima de 5 metros de una intersección para no obstruir la visibilidad y el tráfico."
+    },
+    {
+      "question": "¿Por qué es importante respetar la distancia mínima de 5 metros al estacionarse cerca de una intersección?",
+      "answer": 2,
+      "options": [
+        "A) Para evitar daños en la suspensión del vehículo.",
+        "B) Para permitir que otros conductores usen el espacio.",
+        "C) Para no obstruir la visibilidad y garantizar la seguridad vial.",
+        "D) Para que los peatones tengan más espacio para cruzar."
+      ],
+      "descriptionAnswer": "Estacionarse a 5 metros de la intersección permite mantener la visibilidad y evitar obstrucciones en el tráfico, reduciendo el riesgo de accidentes."
+    },
+    {
+      "question": "¿Qué sucede si un conductor estaciona su vehículo en una intersección o demasiado lejos del andén?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia si es por poco tiempo.",
+        "B) Solo recibirá una advertencia si un agente de tránsito lo ve.",
+        "C) Podrá continuar estacionado si no bloquea completamente la vía.",
+        "D) Puede ser sancionado con una multa y, en algunos casos, su vehículo puede ser inmovilizado."
+      ],
+      "descriptionAnswer": "Estacionar un vehículo en una intersección o de manera incorrecta puede generar sanciones y la inmovilización del vehículo según las normas de tránsito."
+    },
+    {
+      "question": "¿En qué lugares está prohibido estacionar un vehículo según el artículo 76?",
+      "answer": 0,
+      "options": [
+        "A) Andenes, zonas verdes, autopistas, puentes, túneles y zonas de seguridad.",
+        "B) Únicamente en vías arterias y autopistas.",
+        "C) En cualquier lugar de la vía siempre que no tenga señalización de estacionamiento.",
+        "D) Solo en espacios destinados al transporte público."
+      ],
+      "descriptionAnswer": "El artículo 76 prohíbe estacionar en andenes, zonas verdes, autopistas, puentes, túneles y otros lugares donde pueda obstruirse la movilidad o generar peligro."
+    },
+    {
+      "question": "¿Por qué está prohibido estacionar en andenes, zonas verdes o espacios públicos destinados a peatones?",
+      "answer": 1,
+      "options": [
+        "A) Porque puede causar daños en la estructura del vehículo.",
+        "B) Porque obstruye el paso de peatones y afecta la movilidad segura.",
+        "C) Porque solo los vehículos oficiales tienen permiso para hacerlo.",
+        "D) Porque estos lugares están destinados únicamente a vehículos de emergencia."
+      ],
+      "descriptionAnswer": "Estacionar en andenes o zonas verdes impide el paso seguro de los peatones y afecta la movilidad en espacios diseñados exclusivamente para ellos."
+    },
+    {
+      "question": "¿Está permitido estacionar un vehículo dentro de un cruce o intersección?",
+      "answer": 2,
+      "options": [
+        "A) Sí, siempre que no obstruya la circulación.",
+        "B) Solo por un tiempo máximo de 10 minutos.",
+        "C) No, está prohibido porque interfiere con el flujo del tráfico.",
+        "D) Sí, pero únicamente en horas de poco tráfico."
+      ],
+      "descriptionAnswer": "El artículo 76 prohíbe el estacionamiento en cruces e intersecciones porque puede bloquear la visibilidad y afectar la fluidez del tráfico."
+    },
+    {
+      "question": "¿Qué podría suceder si un conductor estaciona su vehículo en un puente, túnel o paso bajo?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia si el tiempo de estacionamiento es corto.",
+        "B) Solo recibirá una advertencia verbal por parte de un agente de tránsito.",
+        "C) Se le permitirá estacionar si usa luces intermitentes de advertencia.",
+        "D) Puede ser sancionado con una multa y su vehículo podría ser inmovilizado."
+      ],
+      "descriptionAnswer": "Estacionar en puentes, túneles o pasos bajos puede generar sanciones y la inmovilización del vehículo, ya que representa un alto riesgo para la seguridad vial."
+    },
+    {
+      "question": "¿Qué establece el artículo 81 sobre la circulación de los vehículos?",
+      "answer": 0,
+      "options": [
+        "A) Deben transitar siempre con todas sus puertas debidamente cerradas.",
+        "B) Pueden circular con las puertas abiertas si el vehículo está en movimiento lento.",
+        "C) Solo los vehículos de carga deben llevar sus puertas cerradas.",
+        "D) No hay regulación sobre el estado de las puertas mientras el vehículo está en marcha."
+      ],
+      "descriptionAnswer": "El artículo 81 establece que todos los vehículos deben circular con sus puertas cerradas para evitar accidentes y garantizar la seguridad de los ocupantes."
+    },
+    {
+      "question": "¿Por qué es importante que un vehículo circule con todas sus puertas cerradas?",
+      "answer": 1,
+      "options": [
+        "A) Para evitar que ingresen objetos extraños al vehículo.",
+        "B) Para garantizar la seguridad de los pasajeros y prevenir caídas o accidentes.",
+        "C) Para reducir el ruido del tráfico dentro del vehículo.",
+        "D) Para evitar sanciones únicamente en vías de alta velocidad."
+      ],
+      "descriptionAnswer": "Circular con las puertas cerradas previene accidentes y protege a los pasajeros de posibles caídas o incidentes inesperados en la vía."
+    },
+    {
+      "question": "¿Qué tipo de sanción podría recibir un conductor que circule con las puertas de su vehículo abiertas?",
+      "answer": 2,
+      "options": [
+        "A) Ninguna, siempre que el vehículo circule a baja velocidad.",
+        "B) Solo una advertencia si no hay pasajeros a bordo.",
+        "C) Puede ser multado por poner en riesgo la seguridad vial.",
+        "D) Solo se sanciona si causa un accidente."
+      ],
+      "descriptionAnswer": "Circular con las puertas abiertas puede ser motivo de sanción, ya que representa un riesgo para la seguridad vial y la integridad de los pasajeros."
+    },
+    {
+      "question": "¿Quiénes están obligados a usar el cinturón de seguridad según el artículo 82?",
+      "answer": 0,
+      "options": [
+        "A) El conductor y los pasajeros de los asientos delanteros.",
+        "B) Solo el conductor del vehículo.",
+        "C) Solo los pasajeros en carreteras y vías rápidas.",
+        "D) Todos los ocupantes del vehículo, sin excepción."
+      ],
+      "descriptionAnswer": "El artículo 82 establece que el uso del cinturón de seguridad es obligatorio para el conductor y los pasajeros de los asientos delanteros en todas las vías del país."
+    },
+    {
+      "question": "¿En qué tipo de vías es obligatorio el uso del cinturón de seguridad?",
+      "answer": 1,
+      "options": [
+        "A) Solo en autopistas y carreteras principales.",
+        "B) En todas las vías del territorio nacional.",
+        "C) Únicamente en vías urbanas con alto tráfico.",
+        "D) Solo en zonas donde haya presencia de controles de tránsito."
+      ],
+      "descriptionAnswer": "El artículo 82 señala que el uso del cinturón de seguridad es obligatorio en cualquier vía del país, sin importar si es urbana o rural."
+    },
+    {
+      "question": "¿Cuál es la principal función del cinturón de seguridad?",
+      "answer": 2,
+      "options": [
+        "A) Evitar que el conductor reciba multas de tránsito.",
+        "B) Mantener a los pasajeros en su posición en curvas cerradas.",
+        "C) Reducir el riesgo de lesiones graves en caso de accidente.",
+        "D) Mejorar la postura del conductor durante la conducción."
+      ],
+      "descriptionAnswer": "El cinturón de seguridad es un elemento de protección fundamental que reduce el riesgo de lesiones graves en caso de accidente."
+    },
+    {
+      "question": "¿Qué puede ocurrir si un conductor o pasajero no usa el cinturón de seguridad?",
+      "answer": 3,
+      "options": [
+        "A) No tendrá ninguna consecuencia si circula a baja velocidad.",
+        "B) Solo recibirá una advertencia verbal de los agentes de tránsito.",
+        "C) No podrá circular en vías de alta velocidad.",
+        "D) Puede ser sancionado con una multa y poner en riesgo su seguridad."
+      ],
+      "descriptionAnswer": "No usar el cinturón de seguridad puede generar sanciones económicas y aumentar el riesgo de sufrir lesiones graves en caso de accidente."
+    },
+    {
+      "question": "¿Qué establece el artículo 83 sobre llevar pasajeros en la parte exterior del vehículo?",
+      "answer": 0,
+      "options": [
+        "A) Está prohibido, salvo en vehículos que por su naturaleza lo requieran.",
+        "B) Está permitido en vías rurales y de bajo tráfico.",
+        "C) Solo se permite si el trayecto es corto y a baja velocidad.",
+        "D) No hay ninguna restricción específica sobre esta práctica."
+      ],
+      "descriptionAnswer": "El artículo 83 prohíbe llevar pasajeros en la parte exterior de los vehículos, excepto en casos específicos como los de atención de incendios y recolección de basuras."
+    },
+    {
+      "question": "¿Cuáles son los tipos de vehículos que pueden llevar pasajeros en la parte exterior?",
+      "answer": 1,
+      "options": [
+        "A) Cualquier vehículo si tiene barras de seguridad.",
+        "B) Vehículos de atención de incendios y recolección de basuras.",
+        "C) Motocicletas y bicicletas con parrilla trasera.",
+        "D) Vehículos de transporte público en zonas rurales."
+      ],
+      "descriptionAnswer": "El artículo 83 permite que los vehículos de atención de incendios y recolección de basuras transporten pasajeros en su parte exterior debido a la naturaleza de su función."
+    },
+    {
+      "question": "¿Por qué está prohibido transportar pasajeros en la parte exterior de un vehículo?",
+      "answer": 2,
+      "options": [
+        "A) Porque reduce la aerodinámica del vehículo.",
+        "B) Porque aumenta el consumo de combustible.",
+        "C) Porque representa un alto riesgo de accidentes y caídas.",
+        "D) Porque puede afectar la visibilidad del conductor."
+      ],
+      "descriptionAnswer": "Llevar pasajeros en la parte exterior de un vehículo es peligroso, ya que aumenta el riesgo de caídas y accidentes graves."
+    },
+    {
+      "question": "¿Qué sanción podría recibir un conductor que transporte personas en la parte exterior de un vehículo sin autorización?",
+      "answer": 3,
+      "options": [
+        "A) Solo una advertencia verbal.",
+        "B) No tendrá ninguna consecuencia si los pasajeros son voluntarios.",
+        "C) Una reducción en su puntaje de la licencia de conducción.",
+        "D) Una multa de tránsito y posible inmovilización del vehículo."
+      ],
+      "descriptionAnswer": "Transportar pasajeros en la parte exterior del vehículo sin justificación puede llevar a una multa y la inmovilización del vehículo según las normas de tránsito."
+    },
+    {
+      "question": "¿Qué debe hacer un conductor si un pasajero causa molestias a otros dentro del vehículo?",
+      "answer": 0,
+      "options": [
+        "A) Detener la marcha y dar aviso a la autoridad policiva más cercana.",
+        "B) Pedirle al pasajero que se baje del vehículo sin detenerse.",
+        "C) Ignorar la situación y continuar con la ruta.",
+        "D) Permitir que otros pasajeros solucionen el problema."
+      ],
+      "descriptionAnswer": "El artículo 92 establece que si un pasajero causa molestias, el conductor debe detenerse y notificar a la autoridad policiva para que intervenga."
+    },
+    {
+      "question": "¿Quién es responsable de garantizar un ambiente adecuado dentro del vehículo?",
+      "answer": 1,
+      "options": [
+        "A) Solo los pasajeros.",
+        "B) El conductor, quien debe actuar si hay molestias.",
+        "C) Solo la autoridad de tránsito.",
+        "D) No hay una responsabilidad específica sobre esta situación."
+      ],
+      "descriptionAnswer": "El conductor es responsable de intervenir si un pasajero genera molestias, garantizando así un ambiente adecuado dentro del vehículo."
+    },
+    {
+      "question": "¿Por qué es importante que la autoridad policiva intervenga en caso de un pasajero problemático?",
+      "answer": 2,
+      "options": [
+        "A) Para imponerle una multa al pasajero.",
+        "B) Para evitar retrasos en la ruta del vehículo.",
+        "C) Para garantizar la seguridad y el orden dentro del vehículo.",
+        "D) Para registrar la queja en un informe oficial."
+      ],
+      "descriptionAnswer": "La intervención de la autoridad policiva es clave para garantizar la seguridad y el orden dentro del vehículo, evitando situaciones que afecten a los demás pasajeros."
+    },
+    {
+      "question": "¿Qué podría suceder si el conductor ignora a un pasajero que causa molestias a otros?",
+      "answer": 3,
+      "options": [
+        "A) No tendría ninguna consecuencia.",
+        "B) Solo recibiría una advertencia de los pasajeros afectados.",
+        "C) El pasajero perturbador puede ser multado de inmediato.",
+        "D) Podría generarse una situación de conflicto que ponga en riesgo la seguridad de todos en el vehículo."
+      ],
+      "descriptionAnswer": "Ignorar una situación de conflicto dentro del vehículo puede generar un problema mayor y poner en riesgo la seguridad de los pasajeros y del conductor."
+    },
+    {
+      "question": "¿Por qué lado de la vía deben transitar los conductores de bicicletas, triciclos, motocicletas, motociclos y mototriciclos?",
+      "answer": 0,
+      "options": [
+        "A) Por la derecha de las vías.",
+        "B) Por el carril central.",
+        "C) Por la izquierda de la vía.",
+        "D) En cualquier parte de la calzada si no hay tráfico."
+      ],
+      "descriptionAnswer": "El artículo 94 establece que los conductores de estos vehículos deben transitar siempre por la derecha de las vías para garantizar la seguridad y la fluidez del tráfico."
+    },
+    {
+      "question": "¿En qué horario es obligatorio el uso de chalecos o chaquetas reflectivas para los conductores de motocicletas y bicicletas?",
+      "answer": 1,
+      "options": [
+        "A) Todo el día.",
+        "B) Entre las 18:00 y las 6:00 horas.",
+        "C) Solo en carreteras intermunicipales.",
+        "D) Únicamente cuando llueva o haya poca visibilidad."
+      ],
+      "descriptionAnswer": "El artículo 94 exige que los conductores de estos vehículos usen chalecos o chaquetas reflectivas entre las 18:00 y las 6:00 horas para mejorar su visibilidad y seguridad."
+    },
+    {
+      "question": "¿Cuál de las siguientes acciones está prohibida para los conductores de bicicletas, motocicletas y similares?",
+      "answer": 2,
+      "options": [
+        "A) Usar casco de protección.",
+        "B) Respetar las señales de tránsito.",
+        "C) Sujetarse de otro vehículo en movimiento.",
+        "D) Circular por la derecha en las vías urbanas."
+      ],
+      "descriptionAnswer": "El artículo 94 prohíbe que los conductores de estos vehículos se sujeten de otro vehículo en movimiento, ya que representa un alto riesgo de accidente."
+    },
+    {
+      "question": "¿Qué normas deben respetar los conductores de bicicletas, motocicletas y vehículos similares?",
+      "answer": 3,
+      "options": [
+        "A) Solo las normas que regulan la velocidad.",
+        "B) Únicamente las normas sobre uso de casco y chaleco reflectivo.",
+        "C) Solo las normas de tránsito en vías rurales.",
+        "D) Todas las señales y normas de tránsito establecidas para la circulación vehicular."
+      ],
+      "descriptionAnswer": "El artículo 94 establece que los conductores de estos vehículos deben respetar todas las señales y normas de tránsito para garantizar la seguridad en la vía."
+    },
+    {
+      "question": "¿Qué establece el artículo 97 sobre la presencia de animales en las vías públicas?",
+      "answer": 0,
+      "options": [
+        "A) No deben dejarse animales sueltos en las vías públicas.",
+        "B) Solo se permite la presencia de animales si están acompañados por su dueño.",
+        "C) Se permite que los animales circulen libremente en zonas rurales.",
+        "D) No hay restricciones sobre la presencia de animales en la vía pública."
+      ],
+      "descriptionAnswer": "El artículo 97 prohíbe que los animales estén sueltos en las vías públicas para evitar accidentes y garantizar la seguridad vial."
+    },
+    {
+      "question": "¿Qué medidas deben tomar las autoridades en caso de encontrar animales abandonados en la vía?",
+      "answer": 1,
+      "options": [
+        "A) Ignorar la situación si el animal no representa peligro.",
+        "B) Tomar medidas para despejar las vías de animales abandonados.",
+        "C) Dejar la responsabilidad en manos de los conductores.",
+        "D) Solo intervenir si el animal bloquea completamente el tráfico."
+      ],
+      "descriptionAnswer": "El artículo 97 indica que las autoridades deben intervenir para retirar animales abandonados de las vías y prevenir accidentes."
+    },
+    {
+      "question": "¿Por qué es importante evitar que los animales circulen libremente en las vías públicas?",
+      "answer": 2,
+      "options": [
+        "A) Para evitar que sean atropellados.",
+        "B) Para que los conductores no tengan que reducir la velocidad.",
+        "C) Para prevenir accidentes y garantizar la seguridad vial.",
+        "D) Porque los animales pueden generar congestión vehicular."
+      ],
+      "descriptionAnswer": "Los animales sueltos en la vía representan un peligro para conductores y peatones, por lo que es importante evitar su presencia en espacios de tránsito."
+    },
+    {
+      "question": "¿Qué podría ocurrir si un animal suelto en la vía provoca un accidente de tránsito?",
+      "answer": 3,
+      "options": [
+        "A) No habría ninguna consecuencia legal.",
+        "B) La responsabilidad recaería únicamente en el conductor afectado.",
+        "C) Se consideraría un evento inevitable sin responsables.",
+        "D) Las autoridades podrían investigar la responsabilidad del dueño del animal."
+      ],
+      "descriptionAnswer": "Si un animal suelto causa un accidente, las autoridades pueden investigar la responsabilidad de su dueño y tomar medidas para evitar nuevos incidentes."
+    },
+    {
+      "question": "¿Cuál es la velocidad máxima permitida en vías urbanas según el artículo 106?",
+      "answer": 0,
+      "options": [
+        "A) 60 km/h, salvo que las señales indiquen otro límite.",
+        "B) 50 km/h en todos los casos.",
+        "C) 80 km/h si la vía está despejada.",
+        "D) No hay un límite fijo, depende del tipo de vehículo."
+      ],
+      "descriptionAnswer": "El artículo 106 establece que la velocidad máxima en vías urbanas es de 60 km/h, a menos que las señales indiquen un límite diferente."
+    },
+    {
+      "question": "¿Quién puede modificar los límites de velocidad en vías urbanas?",
+      "answer": 1,
+      "options": [
+        "A) Cualquier conductor si considera que es seguro.",
+        "B) Las autoridades competentes mediante señalización.",
+        "C) Solo la Policía de Tránsito en operativos especiales.",
+        "D) Los propietarios de las vías privadas."
+      ],
+      "descriptionAnswer": "Las autoridades de tránsito pueden establecer límites de velocidad diferentes en vías urbanas, siempre mediante señalización oficial."
+    },
+    {
+      "question": "¿Qué debe hacer un conductor si encuentra una señal de tránsito con un límite de velocidad distinto a los 60 km/h?",
+      "answer": 2,
+      "options": [
+        "A) Ignorar la señal si el tráfico es liviano.",
+        "B) Mantenerse a 60 km/h sin importar la señal.",
+        "C) Respetar el nuevo límite indicado por la señal.",
+        "D) Solo reducir la velocidad en presencia de agentes de tránsito."
+      ],
+      "descriptionAnswer": "Si hay una señal que indica un límite diferente, el conductor debe respetarlo, ya que las autoridades pueden establecer velocidades distintas según la vía."
+    },
+    {
+      "question": "¿Qué podría suceder si un conductor excede el límite de velocidad en una vía urbana?",
+      "answer": 3,
+      "options": [
+        "A) No tendría ninguna consecuencia si no hay agentes de tránsito.",
+        "B) Solo recibiría una advertencia en su primera infracción.",
+        "C) Podría continuar si justifica la razón de su exceso de velocidad.",
+        "D) Puede ser sancionado con una multa y otras medidas según la gravedad de la infracción."
+      ],
+      "descriptionAnswer": "Exceder la velocidad en zonas urbanas puede generar sanciones, ya que pone en riesgo la seguridad vial de conductores y peatones."
+    },
+    {
+      "question": "¿Cuál debe ser la distancia mínima entre dos vehículos que circulan a una velocidad de hasta 30 km/h?",
+      "answer": 0,
+      "options": [
+        "A) 10 metros.",
+        "B) 20 metros.",
+        "C) 25 metros.",
+        "D) 30 metros."
+      ],
+      "descriptionAnswer": "Según el artículo 108, para velocidades de hasta 30 km/h, la distancia mínima de separación entre vehículos debe ser de 10 metros."
+    },
+    {
+      "question": "¿Qué distancia de seguridad debe mantenerse entre vehículos cuando circulan entre 30 y 60 km/h?",
+      "answer": 1,
+      "options": [
+        "A) 10 metros.",
+        "B) 20 metros.",
+        "C) 25 metros.",
+        "D) 30 metros."
+      ],
+      "descriptionAnswer": "El artículo 108 establece que la distancia mínima entre vehículos a velocidades entre 30 y 60 km/h debe ser de 20 metros para garantizar una frenada segura."
+    },
+    {
+      "question": "¿Cuántos metros de distancia deben mantener dos vehículos que circulan entre 60 y 80 km/h?",
+      "answer": 2,
+      "options": [
+        "A) 10 metros.",
+        "B) 20 metros.",
+        "C) 25 metros.",
+        "D) 30 metros."
+      ],
+      "descriptionAnswer": "Cuando los vehículos circulan entre 60 y 80 km/h, deben mantener una separación de al menos 25 metros para reducir el riesgo de colisiones."
+    },
+    {
+      "question": "¿Qué separación deben mantener los vehículos cuando circulan a más de 80 km/h?",
+      "answer": 3,
+      "options": [
+        "A) 10 metros.",
+        "B) 20 metros.",
+        "C) 25 metros.",
+        "D) 30 metros."
+      ],
+      "descriptionAnswer": "A velocidades superiores a 80 km/h, los vehículos deben mantener una distancia de al menos 30 metros para garantizar una frenada segura y evitar accidentes."
+    },
+    {
+      "question": "¿Por qué es importante mantener una distancia adecuada entre vehículos?",
+      "answer": 2,
+      "options": [
+        "A) Para permitir que otros vehículos se adelanten fácilmente.",
+        "B) Para reducir el consumo de combustible.",
+        "C) Para tener suficiente tiempo de reacción y evitar colisiones en caso de frenado repentino.",
+        "D) Para mejorar la aerodinámica del vehículo en carretera."
+      ],
+      "descriptionAnswer": "Mantener una distancia adecuada entre vehículos permite reaccionar a tiempo ante cualquier imprevisto y reduce el riesgo de accidentes por alcance."
+    },
+    {
+      "question": "¿Cuántas categorías principales de señales de tránsito existen según el artículo 110?",
+      "answer": 0,
+      "options": [
+        "A) Cuatro: reglamentarias, preventivas, informativas y transitorias.",
+        "B) Tres: preventivas, informativas y reglamentarias.",
+        "C) Dos: señales de advertencia y señales obligatorias.",
+        "D) Cinco: reglamentarias, preventivas, informativas, turísticas y de emergencia."
+      ],
+      "descriptionAnswer": "El artículo 110 establece que las señales de tránsito se clasifican en cuatro categorías: reglamentarias, preventivas, informativas y transitorias."
+    },
+    {
+      "question": "¿Cuál es la función de las señales reglamentarias?",
+      "answer": 1,
+      "options": [
+        "A) Advertir sobre peligros en la vía.",
+        "B) Indicar limitaciones, prohibiciones o restricciones.",
+        "C) Proporcionar información útil a los conductores.",
+        "D) Modificar el uso de la vía de manera temporal."
+      ],
+      "descriptionAnswer": "Las señales reglamentarias tienen como objetivo indicar prohibiciones, restricciones o limitaciones que los conductores deben cumplir obligatoriamente."
+    },
+    {
+      "question": "¿Para qué sirven las señales preventivas?",
+      "answer": 2,
+      "options": [
+        "A) Para modificar temporalmente las condiciones de la vía.",
+        "B) Para establecer normas de tránsito obligatorias.",
+        "C) Para advertir sobre la existencia de un peligro en la vía.",
+        "D) Para indicar la dirección de destinos específicos."
+      ],
+      "descriptionAnswer": "Las señales preventivas tienen la función de advertir a los conductores sobre posibles peligros en la vía, como curvas cerradas o zonas escolares."
+    },
+    {
+      "question": "¿Qué información proporcionan las señales informativas?",
+      "answer": 3,
+      "options": [
+        "A) Indican restricciones de velocidad.",
+        "B) Advierten sobre condiciones peligrosas en la vía.",
+        "C) Señalizan desvíos y cambios temporales en la circulación.",
+        "D) Brindan información útil, como nombres de calles o ubicación de servicios."
+      ],
+      "descriptionAnswer": "Las señales informativas proporcionan datos útiles para los conductores, como la ubicación de hospitales, estaciones de servicio o nombres de calles."
+    },
+    {
+      "question": "¿En qué situaciones se utilizan las señales transitorias?",
+      "answer": 4,
+      "options": [
+        "A) Para indicar zonas escolares.",
+        "B) Para establecer límites de velocidad permanentes.",
+        "C) Para señalizar paradas de transporte público.",
+        "D) Para modificar temporalmente el uso de la vía debido a obras o eventos especiales."
+      ],
+      "descriptionAnswer": "Las señales transitorias se utilizan para modificar el uso de la vía de manera temporal, como en casos de desvíos por obras o eventos."
+    },
+    {
+      "question": "¿Cuál es el orden de prelación de las señales de tránsito según el artículo 111?",
+      "answer": 0,
+      "options": [
+        "A) Órdenes de agentes de tránsito, señales transitorias, semáforos, señales verticales y señales horizontales.",
+        "B) Semáforos, señales transitorias, señales verticales, señales horizontales y órdenes de los agentes de tránsito.",
+        "C) Señales horizontales, semáforos, señales transitorias, señales verticales y órdenes de los agentes de tránsito.",
+        "D) Órdenes de los agentes de tránsito, semáforos, señales horizontales, señales transitorias y señales verticales."
+      ],
+      "descriptionAnswer": "El artículo 111 establece que las órdenes de los agentes de tránsito tienen la mayor prelación, seguidas por las señales transitorias, los semáforos, las señales verticales y, por último, las señales horizontales."
+    },
+    {
+      "question": "¿Cuál tiene mayor prioridad: una señal transitoria o un semáforo?",
+      "answer": 1,
+      "options": [
+        "A) El semáforo.",
+        "B) La señal transitoria.",
+        "C) Depende del color del semáforo.",
+        "D) Ninguna, ambas tienen la misma prioridad."
+      ],
+      "descriptionAnswer": "Las señales transitorias tienen mayor prelación que los semáforos porque pueden indicar cambios temporales en la vía debido a obras o emergencias."
+    },
+    {
+      "question": "Si un agente de tránsito da una orden que contradice una señal de tránsito, ¿qué debe hacer el conductor?",
+      "answer": 2,
+      "options": [
+        "A) Seguir la señal de tránsito.",
+        "B) Ignorar la orden si considera que la señal es más clara.",
+        "C) Obedecer la orden del agente de tránsito.",
+        "D) Consultar con otros conductores antes de tomar una decisión."
+      ],
+      "descriptionAnswer": "Las órdenes de los agentes de tránsito tienen la máxima prelación sobre cualquier otra señal, por lo que los conductores deben obedecerlas en todo momento."
+    },
+    {
+      "question": "¿Qué tipo de señal tiene menor prelación en la jerarquía establecida en el artículo 111?",
+      "answer": 3,
+      "options": [
+        "A) Señales transitorias.",
+        "B) Semáforos.",
+        "C) Señales verticales.",
+        "D) Señales horizontales o demarcadas sobre la vía."
+      ],
+      "descriptionAnswer": "Las señales horizontales, que son las demarcaciones sobre la vía, tienen la menor prelación dentro de la jerarquía de señales establecida en el artículo 111."
+    },
+    {
+      "question": "¿Qué indica la luz roja en un semáforo según el artículo 118?",
+      "answer": 0,
+      "options": [
+        "A) El deber de detenerse.",
+        "B) Precaución ante un posible cambio de luz.",
+        "C) Vía libre para continuar.",
+        "D) Indica que el semáforo no está en funcionamiento."
+      ],
+      "descriptionAnswer": "El artículo 118 establece que la luz roja en un semáforo indica que el conductor debe detenerse obligatoriamente."
+    },
+    {
+      "question": "¿Cuál es el significado de la luz amarilla en un semáforo?",
+      "answer": 1,
+      "options": [
+        "A) Indica que el conductor debe acelerar para evitar la luz roja.",
+        "B) Advierte sobre un cambio próximo en la señal luminosa.",
+        "C) Da vía libre para continuar sin restricciones.",
+        "D) Solo aplica para peatones y ciclistas."
+      ],
+      "descriptionAnswer": "La luz amarilla en un semáforo advierte a los conductores sobre un próximo cambio de luz, permitiendo prepararse para detenerse o continuar con precaución."
+    },
+    {
+      "question": "¿Qué significa la luz verde en un semáforo?",
+      "answer": 2,
+      "options": [
+        "A) Indica que el conductor debe reducir la velocidad.",
+        "B) Significa que el semáforo está en mantenimiento.",
+        "C) Señala vía libre para continuar.",
+        "D) Indica que solo los peatones pueden cruzar."
+      ],
+      "descriptionAnswer": "El artículo 118 señala que la luz verde en un semáforo indica vía libre para que los vehículos continúen su trayecto."
+    },
+    {
+      "question": "¿Qué debe hacer un conductor cuando el semáforo cambia de verde a amarillo?",
+      "answer": 3,
+      "options": [
+        "A) Acelerar para pasar antes de que cambie a rojo.",
+        "B) Continuar sin precaución si ya ha ingresado a la intersección.",
+        "C) Ignorar la luz amarilla y esperar a que cambie a roja.",
+        "D) Reducir la velocidad y prepararse para detenerse si es seguro hacerlo."
+      ],
+      "descriptionAnswer": "Cuando el semáforo cambia a amarillo, el conductor debe reducir la velocidad y prepararse para detenerse si es seguro hacerlo."
+    },
+    {
+      "question": "¿Qué ocurre si un conductor reincide en infracciones de tránsito según el artículo 124?",
+      "answer": 0,
+      "options": [
+        "A) Se suspenderá su licencia de conducción por seis meses.",
+        "B) Solo recibirá una multa económica.",
+        "C) No habrá sanción si las infracciones son menores.",
+        "D) Se le exigirá realizar un curso de seguridad vial, pero podrá seguir conduciendo."
+      ],
+      "descriptionAnswer": "El artículo 124 establece que la reincidencia en infracciones de tránsito conlleva la suspensión de la licencia de conducción por seis meses."
+    },
+    {
+      "question": "¿Qué ocurre si un conductor reincide nuevamente después de haber sido sancionado por primera vez?",
+      "answer": 1,
+      "options": [
+        "A) Se mantendrá la sanción de seis meses sin cambios.",
+        "B) La sanción se duplicará.",
+        "C) Solo se agregará una advertencia en su historial de conducción.",
+        "D) Se le permitirá seguir conduciendo con restricciones horarias."
+      ],
+      "descriptionAnswer": "Si un conductor reincide nuevamente después de la primera sanción, la suspensión de su licencia se duplicará, según el artículo 124."
+    },
+    {
+      "question": "¿Cuál es el objetivo de la sanción por reincidencia en infracciones de tránsito?",
+      "answer": 2,
+      "options": [
+        "A) Recaudar más fondos a través de multas.",
+        "B) Reducir el número de vehículos en circulación.",
+        "C) Fomentar el cumplimiento de las normas de tránsito y prevenir accidentes.",
+        "D) Penalizar únicamente a conductores de servicio público."
+      ],
+      "descriptionAnswer": "La suspensión de la licencia busca fomentar el cumplimiento de las normas de tránsito y prevenir accidentes causados por conductores reincidentes."
+    },
+    {
+      "question": "¿Qué puede hacer un conductor para evitar la suspensión de su licencia por reincidencia?",
+      "answer": 3,
+      "options": [
+        "A) Apelar todas sus multas ante la autoridad de tránsito.",
+        "B) Conducir sin licencia si ha sido suspendida.",
+        "C) Pagar sus multas a tiempo sin cambiar su conducta.",
+        "D) Cumplir las normas de tránsito y evitar cometer infracciones repetitivas."
+      ],
+      "descriptionAnswer": "Para evitar la suspensión de la licencia, el conductor debe respetar las normas de tránsito y no cometer infracciones de manera repetitiva."
+    },
+    {
+      "question": "¿En qué consiste la inmovilización de un vehículo según el artículo 125?",
+      "answer": 0,
+      "options": [
+        "A) En suspender temporalmente la circulación del vehículo.",
+        "B) En la confiscación definitiva del vehículo.",
+        "C) En la aplicación de una multa sin retirar el vehículo de circulación.",
+        "D) En la obligación de vender el vehículo para evitar la sanción."
+      ],
+      "descriptionAnswer": "El artículo 125 establece que la inmovilización implica la suspensión temporal de la circulación del vehículo hasta que se corrija la causa que la originó."
+    },
+    {
+      "question": "¿A dónde es llevado un vehículo inmovilizado?",
+      "answer": 1,
+      "options": [
+        "A) A la casa del propietario hasta que pague la multa.",
+        "B) A un parqueadero autorizado.",
+        "C) A la estación de policía más cercana.",
+        "D) A un taller mecánico determinado por las autoridades."
+      ],
+      "descriptionAnswer": "Cuando un vehículo es inmovilizado, debe ser trasladado a un parqueadero autorizado hasta que se solucione la causa de la inmovilización."
+    },
+    {
+      "question": "¿Cuándo puede un vehículo inmovilizado volver a circular?",
+      "answer": 2,
+      "options": [
+        "A) Cuando el propietario lo solicite, sin condiciones.",
+        "B) Después de 30 días de retención obligatoria.",
+        "C) Cuando se subsane la causa que originó la inmovilización.",
+        "D) Solo si el conductor presenta un recurso de apelación."
+      ],
+      "descriptionAnswer": "El vehículo podrá volver a circular una vez que el propietario haya solucionado el motivo que llevó a su inmovilización."
+    },
+    {
+      "question": "¿Cuál de las siguientes situaciones podría causar la inmovilización de un vehículo?",
+      "answer": 3,
+      "options": [
+        "A) Conducir con cinturón de seguridad desabrochado.",
+        "B) Exceder el límite de velocidad en una vía urbana.",
+        "C) No tener el tanque de combustible lleno.",
+        "D) Circular sin SOAT o revisión técnico-mecánica vigente."
+      ],
+      "descriptionAnswer": "Circular sin SOAT o sin revisión técnico-mecánica vigente puede llevar a la inmovilización del vehículo hasta que se regularice la situación."
+    },
+    {
+      "question": "¿En qué casos la autoridad de tránsito puede retirar un vehículo con grúa según el artículo 127?",
+      "answer": 0,
+      "options": [
+        "A) Cuando está estacionado en zonas prohibidas o bloqueando una vía pública.",
+        "B) Cuando se deja estacionado por más de 24 horas en el mismo lugar.",
+        "C) Solo si el vehículo está obstruyendo un parqueadero privado.",
+        "D) Si el vehículo tiene multas pendientes sin pagar."
+      ],
+      "descriptionAnswer": "El artículo 127 establece que la autoridad de tránsito puede retirar un vehículo con grúa si está mal estacionado en una zona prohibida o bloqueando una vía."
+    },
+    {
+      "question": "¿Quién debe asumir los costos de la grúa y el parqueadero cuando un vehículo es retirado por mal estacionamiento?",
+      "answer": 1,
+      "options": [
+        "A) La autoridad de tránsito.",
+        "B) El conductor o propietario del vehículo.",
+        "C) La empresa de grúas contratada.",
+        "D) El seguro obligatorio del vehículo (SOAT)."
+      ],
+      "descriptionAnswer": "Según el artículo 127, los costos de la grúa y el parqueadero serán responsabilidad del conductor o propietario del vehículo infractor."
+    },
+    {
+      "question": "¿Qué debe hacer un conductor si su vehículo fue retirado con grúa por estar mal estacionado?",
+      "answer": 2,
+      "options": [
+        "A) Esperar a que la autoridad de tránsito lo devuelva sin costo adicional.",
+        "B) Presentar una queja para evitar el pago de los costos de retiro.",
+        "C) Pagar los costos correspondientes y cumplir con los requisitos para retirar el vehículo.",
+        "D) Abandonar el vehículo si el costo de retiro es muy alto."
+      ],
+      "descriptionAnswer": "El conductor debe pagar los costos de retiro y parqueadero, además de cumplir con los trámites exigidos para recuperar su vehículo."
+    },
+    {
+      "question": "¿Por qué es importante retirar los vehículos mal estacionados con grúa?",
+      "answer": 3,
+      "options": [
+        "A) Para reducir la cantidad de vehículos en las calles.",
+        "B) Para evitar que los conductores dejen sus vehículos estacionados por largos períodos.",
+        "C) Para sancionar económicamente a los infractores.",
+        "D) Para garantizar la movilidad y evitar obstrucciones en las vías públicas."
+      ],
+      "descriptionAnswer": "Retirar los vehículos mal estacionados con grúa es fundamental para garantizar la movilidad y evitar congestión en las vías públicas."
+    },
+    {
+      "question": "¿Cómo se determinan las multas por infracciones de tránsito según el artículo 131?",
+      "answer": 0,
+      "options": [
+        "A) En salarios mínimos legales diarios vigentes.",
+        "B) En montos fijos establecidos en cada ciudad.",
+        "C) En porcentajes del valor del vehículo del infractor.",
+        "D) En función de la cantidad de infracciones cometidas por el conductor."
+      ],
+      "descriptionAnswer": "El artículo 131 establece que las multas de tránsito se calculan en salarios mínimos diarios vigentes, lo que permite ajustar su valor según el aumento anual del salario mínimo."
+    },
+    {
+      "question": "¿Cómo se clasifican las infracciones de tránsito según su gravedad?",
+      "answer": 1,
+      "options": [
+        "A) En leves, moderadas y graves.",
+        "B) En diferentes categorías con multas que van desde 4 hasta 30 salarios mínimos diarios.",
+        "C) Solo en infracciones graves y muy graves.",
+        "D) En infracciones personales y mecánicas."
+      ],
+      "descriptionAnswer": "El artículo 131 establece que las infracciones de tránsito están clasificadas en diferentes categorías, con multas que varían entre 4 y 30 salarios mínimos diarios según su gravedad."
+    },
+    {
+      "question": "¿Cuál es el rango de multas establecido en el artículo 131?",
+      "answer": 2,
+      "options": [
+        "A) De 1 a 10 salarios mínimos diarios.",
+        "B) De 5 a 20 salarios mínimos diarios.",
+        "C) De 4 a 30 salarios mínimos diarios.",
+        "D) De 10 a 50 salarios mínimos diarios."
+      ],
+      "descriptionAnswer": "Las multas pueden ir desde 4 hasta 30 salarios mínimos diarios, dependiendo de la gravedad de la infracción cometida."
+    },
+    {
+      "question": "¿Por qué las multas se calculan en salarios mínimos y no en montos fijos?",
+      "answer": 3,
+      "options": [
+        "A) Para que sean más accesibles para los conductores.",
+        "B) Para que las multas sean más bajas en algunas ciudades.",
+        "C) Para que el monto de la multa se mantenga constante a lo largo de los años.",
+        "D) Para que el valor de las multas se ajuste cada año según el incremento del salario mínimo."
+      ],
+      "descriptionAnswer": "El cálculo en salarios mínimos permite que las multas se ajusten anualmente de acuerdo con la inflación y el incremento del salario mínimo."
+    },
+    {
+      "question": "¿Cuál es el primer paso que debe realizar la autoridad de tránsito al imponer un comparendo?",
+      "answer": 0,
+      "options": [
+        "A) Detener la marcha del vehículo.",
+        "B) Retirar la licencia de conducción del infractor.",
+        "C) Aplicar una multa inmediata sin notificación.",
+        "D) Llevar el vehículo a un parqueadero autorizado."
+      ],
+      "descriptionAnswer": "El artículo 135 establece que la primera acción que debe realizar la autoridad de tránsito es detener la marcha del vehículo antes de imponer el comparendo."
+    },
+    {
+      "question": "¿Qué documento debe entregar la autoridad de tránsito al conductor tras cometer una infracción?",
+      "answer": 1,
+      "options": [
+        "A) Un recibo de pago inmediato.",
+        "B) Una orden de comparendo.",
+        "C) Un aviso verbal sin necesidad de documento escrito.",
+        "D) Una citación para renovar su licencia de conducción."
+      ],
+      "descriptionAnswer": "La autoridad de tránsito debe extender una orden de comparendo, documento que informa al conductor sobre la infracción cometida y los pasos a seguir."
+    },
+    {
+      "question": "¿Cuánto tiempo tiene un conductor para presentarse ante la autoridad de tránsito después de recibir un comparendo?",
+      "answer": 2,
+      "options": [
+        "A) 24 horas.",
+        "B) 5 días hábiles.",
+        "C) 3 días hábiles.",
+        "D) No es obligatorio presentarse."
+      ],
+      "descriptionAnswer": "El artículo 135 establece que el conductor debe presentarse ante la autoridad de tránsito en un plazo máximo de 3 días hábiles después de recibir el comparendo."
+    },
+    {
+      "question": "¿Qué sucede si un conductor no se presenta dentro del plazo establecido tras recibir un comparendo?",
+      "answer": 3,
+      "options": [
+        "A) Se anula la infracción automáticamente.",
+        "B) Solo se le envía un recordatorio sin sanción adicional.",
+        "C) Puede evitar la multa si justifica su ausencia.",
+        "D) Se da por aceptada la infracción y se procede con la sanción correspondiente."
+      ],
+      "descriptionAnswer": "Si el conductor no se presenta en el plazo establecido, se da por aceptada la infracción y se procede con la sanción correspondiente según la norma."
+    },
+    {
+      "question": "¿Quién es el encargado de establecer los límites de los grados de alcoholemia según el artículo 152?",
+      "answer": 0,
+      "options": [
+        "A) El Instituto Nacional de Medicina Legal y Ciencias Forenses.",
+        "B) La Policía de Tránsito.",
+        "C) El Ministerio de Transporte.",
+        "D) La Superintendencia de Salud."
+      ],
+      "descriptionAnswer": "El artículo 152 establece que el Instituto Nacional de Medicina Legal y Ciencias Forenses es la entidad encargada de definir los límites de los diferentes grados de alcoholemia."
+    },
+    {
+      "question": "¿Cómo afecta el grado de embriaguez detectado a la sanción impuesta al conductor?",
+      "answer": 1,
+      "options": [
+        "A) No influye, la sanción es la misma en todos los casos.",
+        "B) La suspensión de la licencia varía según el grado de embriaguez.",
+        "C) Solo afecta el monto de la multa, pero no la suspensión de la licencia.",
+        "D) Depende únicamente de la cantidad de multas previas del conductor."
+      ],
+      "descriptionAnswer": "El artículo 152 indica que la suspensión de la licencia de conducción varía en función del grado de embriaguez detectado."
+    },
+    {
+      "question": "¿Qué determina el grado de embriaguez de un conductor?",
+      "answer": 2,
+      "options": [
+        "A) Su comportamiento al volante.",
+        "B) La cantidad de alcohol ingerida sin necesidad de pruebas médicas.",
+        "C) La concentración de alcohol en la sangre medida por pruebas técnicas.",
+        "D) La opinión del agente de tránsito que realice la detención."
+      ],
+      "descriptionAnswer": "El grado de embriaguez se determina mediante pruebas técnicas que miden la concentración de alcohol en la sangre del conductor."
+    },
+    {
+      "question": "¿Qué podría suceder si un conductor es sorprendido con un alto grado de embriaguez?",
+      "answer": 3,
+      "options": [
+        "A) Solo se le dará una advertencia verbal.",
+        "B) Se le permitirá seguir conduciendo si no ha causado un accidente.",
+        "C) Se le impondrá una multa, pero no se suspenderá su licencia.",
+        "D) Se suspenderá su licencia de conducción por un período determinado según su grado de embriaguez."
+      ],
+      "descriptionAnswer": "Según el artículo 152, la sanción por conducir en estado de embriaguez incluye la suspensión de la licencia de conducción, cuya duración depende del grado de alcoholemia detectado."
+    }
+  ]
+}
