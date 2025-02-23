@@ -1,23 +1,23 @@
-import './style.css';
-import { Question, QuizState } from './types';
-import { QuizService } from './services/QuizService';
+import "./style.css";
+import { QuizState } from "./types";
+import { QuizService } from "./services/QuizService";
 
 let state: QuizState = {
   questions: [],
   currentQuestion: -1,
   correctAnswers: 0,
   answeredQuestions: new Set(),
-  isFinished: false
+  isFinished: false,
 };
 
 function getRandomQuestion(): number {
   const availableQuestions = state.questions.length;
   let randomIndex;
-  
+
   do {
     randomIndex = Math.floor(Math.random() * availableQuestions);
   } while (state.answeredQuestions.has(randomIndex));
-  
+
   return randomIndex;
 }
 
@@ -26,24 +26,26 @@ function checkAnswer(selectedOption: number, correctAnswer: number): boolean {
 }
 
 function disableAllOptions() {
-  const buttons = document.querySelectorAll('.option-btn');
-  buttons.forEach(button => {
-    button.setAttribute('disabled', 'true');
+  const buttons = document.querySelectorAll(".option-btn");
+  buttons.forEach((button) => {
+    button.setAttribute("disabled", "true");
   });
 }
 
 function showAnswerFeedback(selectedButton: HTMLElement, isCorrect: boolean) {
-  selectedButton.classList.add(isCorrect ? 'correct' : 'incorrect');
-  
+  selectedButton.classList.add(isCorrect ? "correct" : "incorrect");
+
   if (!isCorrect) {
-    const correctButton = document.querySelectorAll('.option-btn')[state.questions[state.currentQuestion].answer] as HTMLElement;
-    correctButton.classList.add('correct');
+    const correctButton = document.querySelectorAll(".option-btn")[
+      state.questions[state.currentQuestion].answer
+    ] as HTMLElement;
+    correctButton.classList.add("correct");
   }
 
   // Add description after answering
-  const questionContainer = document.querySelector('.quiz-container')!;
-  const descriptionElement = document.createElement('div');
-  descriptionElement.className = 'answer-description';
+  const questionContainer = document.querySelector(".quiz-container")!;
+  const descriptionElement = document.createElement("div");
+  descriptionElement.className = "answer-description";
   descriptionElement.innerHTML = `
     <p class="description-text">
       ${state.questions[state.currentQuestion].descriptionAnswer}
@@ -53,10 +55,9 @@ function showAnswerFeedback(selectedButton: HTMLElement, isCorrect: boolean) {
   addNextButton();
 }
 
-
 function updateUI() {
-  const app = document.querySelector<HTMLDivElement>('#app')!;
-  
+  const app = document.querySelector<HTMLDivElement>("#app")!;
+
   if (state.isFinished) {
     app.innerHTML = `
       <div class="quiz-container">
@@ -69,17 +70,23 @@ function updateUI() {
   }
 
   const question = state.questions[state.currentQuestion];
-  
+
   app.innerHTML = `
     <div class="quiz-container">
-      <h2>Pregunta ${state.answeredQuestions.size + 1} de ${state.questions.length}</h2>
+      <h2>Pregunta ${state.answeredQuestions.size + 1} de ${
+    state.questions.length
+  }</h2>
       <p class="question">${question.question}</p>
       <div class="options">
-        ${question.options.map((option, index) => `
+        ${question.options
+          .map(
+            (option, index) => `
           <button onclick="window.handleAnswer(${index}, this)" class="option-btn">
             ${option}
           </button>
-        `).join('')}
+        `
+          )
+          .join("")}
       </div>
     </div>
   `;
@@ -92,7 +99,7 @@ async function startQuiz() {
     state.currentQuestion = getRandomQuestion();
     updateUI();
   } catch (error) {
-    const app = document.querySelector<HTMLDivElement>('#app')!;
+    const app = document.querySelector<HTMLDivElement>("#app")!;
     app.innerHTML = `
       <div class="quiz-container">
         <h2>Error</h2>
@@ -104,9 +111,9 @@ async function startQuiz() {
 }
 
 function addNextButton() {
-  const questionContainer = document.querySelector('.quiz-container')!;
-  const nextButtonElement = document.createElement('div');
-  nextButtonElement.className = 'next-button-container';
+  const questionContainer = document.querySelector(".quiz-container")!;
+  const nextButtonElement = document.createElement("div");
+  nextButtonElement.className = "next-button-container";
   nextButtonElement.innerHTML = `
     <button onclick="window.nextQuestion()" class="next-btn">Siguiente Pregunta</button>
   `;
@@ -130,17 +137,20 @@ function validateQuizProgress(): boolean {
 };
 
 // Modify handleAnswer to use the new validation
-(window as any).handleAnswer = (selectedOption: number, buttonElement: HTMLElement) => {
+(window as any).handleAnswer = (
+  selectedOption: number,
+  buttonElement: HTMLElement
+) => {
   const currentQuestion = state.questions[state.currentQuestion];
   const isCorrect = checkAnswer(selectedOption, currentQuestion.answer);
-  
+
   disableAllOptions();
   showAnswerFeedback(buttonElement, isCorrect);
-  
+
   if (isCorrect) {
     state.correctAnswers++;
   }
-  
+
   state.answeredQuestions.add(state.currentQuestion);
 };
 
